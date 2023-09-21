@@ -15,4 +15,5 @@ columns = ['keyword', 'segment', 'count', 'total']
 df = pd.DataFrame(columns=columns)
 for x, y in count_result.items():
   nextRow = pd.DataFrame([[x, keywordMap[x], y, total]], columns=columns)
+  df = pd.concat([df, nextRow])
 df.to_csv(file_path.replace(".pdf", "_out.csv"))
