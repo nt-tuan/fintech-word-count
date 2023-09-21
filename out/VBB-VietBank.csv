@@ -1,0 +1,591 @@
+,bank,year,keyword,segment,count
+0,VBB-VietBank,2017,Nền tảng công nghệ,Nền tảng,0
+0,VBB-VietBank,2017,Nền tảng số,Nền tảng,0
+0,VBB-VietBank,2017,Hạ tầng công nghệ,Nền tảng,0
+0,VBB-VietBank,2017,Công nghệ thông tin,Công nghệ,0
+0,VBB-VietBank,2017,CNTT,Công nghệ,7
+0,VBB-VietBank,2017,Kỹ thuật công nghệ,Công nghệ,0
+0,VBB-VietBank,2017,Công nghệ ngân hàng,Công nghệ,0
+0,VBB-VietBank,2017,Công nghệ 4.0,Công nghệ,0
+0,VBB-VietBank,2017,Công nghệ tài chính,Công nghệ,0
+0,VBB-VietBank,2017,Ứng dụng công nghệ,Công nghệ,0
+0,VBB-VietBank,2017,Chuyển đổi số,Công nghệ,0
+0,VBB-VietBank,2017,phát triển công nghệ,Công nghệ,0
+0,VBB-VietBank,2017,Công nghệ Fintech,Công nghệ,0
+0,VBB-VietBank,2017,hệ thống công nghệ,Công nghệ,0
+0,VBB-VietBank,2017,digital transformation,Công nghệ,0
+0,VBB-VietBank,2017,trí tuệ nhân tạo,Artificial intelligence,0
+0,VBB-VietBank,2017,trợ lý ảo,Artificial intelligence,0
+0,VBB-VietBank,2017,Artificial intelligence,Artificial intelligence,0
+0,VBB-VietBank,2017,eKYC,Face recognition,0
+0,VBB-VietBank,2017,xác thực khuôn mặt,Face recognition,0
+0,VBB-VietBank,2017,Face recognition,Face recognition,0
+0,VBB-VietBank,2017,nhận diện giọng nói,Voice recognition,0
+0,VBB-VietBank,2017,Voice recognition,Voice recognition,0
+0,VBB-VietBank,2017,xác thực vân tay,Fingerprint recognition,0
+0,VBB-VietBank,2017,Fingerprint recognition,Fingerprint recognition,0
+0,VBB-VietBank,2017,công nghệ chuỗi khối,Blockchain,0
+0,VBB-VietBank,2017,blockchain,Blockchain,0
+0,VBB-VietBank,2017,điện toán đám mây,Cloud computing,0
+0,VBB-VietBank,2017,Hệ thống PKI,Cloud computing,0
+0,VBB-VietBank,2017,Cloud computing,Cloud computing,0
+0,VBB-VietBank,2017,Cloud service,Cloud service,0
+0,VBB-VietBank,2017,Salesforce Financial Services Cloud,Cloud service,0
+0,VBB-VietBank,2017,dịch vụ đám mây,Cloud service,0
+0,VBB-VietBank,2017,đám mây,Cloud service,0
+0,VBB-VietBank,2017,Cloud platform,Cloud platform,0
+0,VBB-VietBank,2017,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,VBB-VietBank,2017,Adobe Experience Cloud,Cloud platform,0
+0,VBB-VietBank,2017,Dữ liệu (Data),Big Data,0
+0,VBB-VietBank,2017,Dữ liệu lớn,Big Data,0
+0,VBB-VietBank,2017,Big Data,Big Data,0
+0,VBB-VietBank,2017,Khoa học dữ liệu,Data mining,0
+0,VBB-VietBank,2017,Máy học,Data mining,0
+0,VBB-VietBank,2017,Data mining,Data mining,0
+0,VBB-VietBank,2017,Mô hình dữ liệu,Data visualization,0
+0,VBB-VietBank,2017,Dữ liệu và phân tích,Data visualization,0
+0,VBB-VietBank,2017,phân tích dữ liệu,Data visualization,0
+0,VBB-VietBank,2017,Data visualization,Data visualization,0
+0,VBB-VietBank,2017,Thanh toán trực tuyến,Online Payment,0
+0,VBB-VietBank,2017,Chuyển tiền trên kênh số,Online Payment,0
+0,VBB-VietBank,2017,Thanh toán không tiếp xúc,Online Payment,0
+0,VBB-VietBank,2017,Thanh toán điện tử,Online Payment,0
+0,VBB-VietBank,2017,Thanh toán ECOM,Online Payment,0
+0,VBB-VietBank,2017,Giao dịch công nghệ số,Online Payment,0
+0,VBB-VietBank,2017,Giao dịch trực tuyến,Online Payment,0
+0,VBB-VietBank,2017,Dịch vụ trực tuyến,Online Payment,0
+0,VBB-VietBank,2017,Online Payment,Online Payment,0
+0,VBB-VietBank,2017,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,VBB-VietBank,2017,Mobile Payment,Mobile Payment,0
+0,VBB-VietBank,2017,SMS,Mobile Payment,2
+0,VBB-VietBank,2017,QR Code,QR code payment,0
+0,VBB-VietBank,2017,mã QR,QR code payment,0
+0,VBB-VietBank,2017,VietQR,QR code payment,0
+0,VBB-VietBank,2017,Không dùng tiền mặt,Digital wallet,0
+0,VBB-VietBank,2017,Ví điện tử,Digital wallet,0
+0,VBB-VietBank,2017,Tài khoản trực tuyến,Digital wallet,0
+0,VBB-VietBank,2017,Digital wallet,Digital wallet,0
+0,VBB-VietBank,2017,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,VBB-VietBank,2017,vay mua nhà trực tuyến,Online loan,0
+0,VBB-VietBank,2017,Online loan,Online loan,0
+0,VBB-VietBank,2017,Ngoại hối online,Online finance,0
+0,VBB-VietBank,2017,Online finance,Online finance,0
+0,VBB-VietBank,2017,smart contract,Lending platform,0
+0,VBB-VietBank,2017,Hợp đồng thông minh,Lending platform,0
+0,VBB-VietBank,2017,e-form,Lending platform,0
+0,VBB-VietBank,2017,Lending platform,Lending platform,0
+0,VBB-VietBank,2017,Inclusive credit,Inclusive credit,0
+0,VBB-VietBank,2017,Customer portrait,Customer portrait,0
+0,VBB-VietBank,2017,Mô hình hành vi,Customer portrait,0
+0,VBB-VietBank,2017,mô hình VaR,Predictive model,0
+0,VBB-VietBank,2017,Mô hình đo lường rủi ro,Predictive model,0
+0,VBB-VietBank,2017,Mô hình cảnh báo nợ,Predictive model,0
+0,VBB-VietBank,2017,Predictive model,Predictive model,0
+0,VBB-VietBank,2017,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,VBB-VietBank,2017,Credit evaluation,Credit evaluation,0
+0,VBB-VietBank,2017,Anti-fraud,Anti-fraud,0
+0,VBB-VietBank,2017,chống gian lận,Anti-fraud,0
+0,VBB-VietBank,2017,Ngân hàng trực tuyến,Online banking,2
+0,VBB-VietBank,2017,Online banking,Online banking,0
+0,VBB-VietBank,2017,ngân hàng di động,Mobile banking,0
+0,VBB-VietBank,2017,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,VBB-VietBank,2017,SHB Mobile,Mobile banking,0
+0,VBB-VietBank,2017,Mobile banking,Mobile banking,2
+0,VBB-VietBank,2017,E-Mobile,Mobile banking,0
+0,VBB-VietBank,2017,One Time Password,Mobile banking,0
+0,VBB-VietBank,2017,OTP,Mobile banking,0
+0,VBB-VietBank,2017,Ebanking,Internet banking,1
+0,VBB-VietBank,2017,Internet banking,Internet banking,2
+0,VBB-VietBank,2017,SHB Mobile Banking,Bank app,0
+0,VBB-VietBank,2017,ứng dụng di động,Bank app,0
+0,VBB-VietBank,2017,ứng dụng ngân hàng số,Bank app,0
+0,VBB-VietBank,2017,ứng dụng trên điện thoại,Bank app,0
+0,VBB-VietBank,2017,ACB ONE,Bank app,0
+0,VBB-VietBank,2017,VPBank NEO,Bank app,0
+0,VBB-VietBank,2017,MyVIB,Bank app,0
+0,VBB-VietBank,2017,HDBank,Bank app,0
+0,VBB-VietBank,2017,BIDV Smart Banking,Bank app,0
+0,VBB-VietBank,2017,MB Bank,Bank app,0
+0,VBB-VietBank,2017,Vietinbank iPay,Bank app,0
+0,VBB-VietBank,2017,TPBank Mobile,Bank app,0
+0,VBB-VietBank,2017,Agribank E-Mobile Banking,Bank app,0
+0,VBB-VietBank,2017,MSB mBank,Bank app,0
+0,VBB-VietBank,2017,Eximbank EDigi,Bank app,0
+0,VBB-VietBank,2017,Sacombank Pay,Bank app,0
+0,VBB-VietBank,2017,SCB Mobile Banking,Bank app,0
+0,VBB-VietBank,2017,BAOVIET Smart,Bank app,0
+0,VBB-VietBank,2017,BAC A BANK Mobile Banking,Bank app,0
+0,VBB-VietBank,2017,NCB iziMobile,Bank app,0
+0,VBB-VietBank,2017,Liên Việt 24h,Bank app,0
+0,VBB-VietBank,2020,Nền tảng công nghệ,Nền tảng,0
+0,VBB-VietBank,2020,Nền tảng số,Nền tảng,0
+0,VBB-VietBank,2020,Hạ tầng công nghệ,Nền tảng,0
+0,VBB-VietBank,2020,Công nghệ thông tin,Công nghệ,2
+0,VBB-VietBank,2020,CNTT,Công nghệ,7
+0,VBB-VietBank,2020,Kỹ thuật công nghệ,Công nghệ,0
+0,VBB-VietBank,2020,Công nghệ ngân hàng,Công nghệ,3
+0,VBB-VietBank,2020,Công nghệ 4.0,Công nghệ,0
+0,VBB-VietBank,2020,Công nghệ tài chính,Công nghệ,0
+0,VBB-VietBank,2020,Ứng dụng công nghệ,Công nghệ,0
+0,VBB-VietBank,2020,Chuyển đổi số,Công nghệ,1
+0,VBB-VietBank,2020,phát triển công nghệ,Công nghệ,0
+0,VBB-VietBank,2020,Công nghệ Fintech,Công nghệ,0
+0,VBB-VietBank,2020,hệ thống công nghệ,Công nghệ,0
+0,VBB-VietBank,2020,digital transformation,Công nghệ,0
+0,VBB-VietBank,2020,trí tuệ nhân tạo,Artificial intelligence,0
+0,VBB-VietBank,2020,trợ lý ảo,Artificial intelligence,0
+0,VBB-VietBank,2020,Artificial intelligence,Artificial intelligence,0
+0,VBB-VietBank,2020,eKYC,Face recognition,3
+0,VBB-VietBank,2020,xác thực khuôn mặt,Face recognition,0
+0,VBB-VietBank,2020,Face recognition,Face recognition,0
+0,VBB-VietBank,2020,nhận diện giọng nói,Voice recognition,0
+0,VBB-VietBank,2020,Voice recognition,Voice recognition,0
+0,VBB-VietBank,2020,xác thực vân tay,Fingerprint recognition,0
+0,VBB-VietBank,2020,Fingerprint recognition,Fingerprint recognition,0
+0,VBB-VietBank,2020,công nghệ chuỗi khối,Blockchain,0
+0,VBB-VietBank,2020,blockchain,Blockchain,0
+0,VBB-VietBank,2020,điện toán đám mây,Cloud computing,0
+0,VBB-VietBank,2020,Hệ thống PKI,Cloud computing,0
+0,VBB-VietBank,2020,Cloud computing,Cloud computing,0
+0,VBB-VietBank,2020,Cloud service,Cloud service,0
+0,VBB-VietBank,2020,Salesforce Financial Services Cloud,Cloud service,0
+0,VBB-VietBank,2020,dịch vụ đám mây,Cloud service,0
+0,VBB-VietBank,2020,đám mây,Cloud service,0
+0,VBB-VietBank,2020,Cloud platform,Cloud platform,0
+0,VBB-VietBank,2020,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,VBB-VietBank,2020,Adobe Experience Cloud,Cloud platform,0
+0,VBB-VietBank,2020,Dữ liệu (Data),Big Data,0
+0,VBB-VietBank,2020,Dữ liệu lớn,Big Data,0
+0,VBB-VietBank,2020,Big Data,Big Data,0
+0,VBB-VietBank,2020,Khoa học dữ liệu,Data mining,0
+0,VBB-VietBank,2020,Máy học,Data mining,0
+0,VBB-VietBank,2020,Data mining,Data mining,0
+0,VBB-VietBank,2020,Mô hình dữ liệu,Data visualization,0
+0,VBB-VietBank,2020,Dữ liệu và phân tích,Data visualization,0
+0,VBB-VietBank,2020,phân tích dữ liệu,Data visualization,0
+0,VBB-VietBank,2020,Data visualization,Data visualization,0
+0,VBB-VietBank,2020,Thanh toán trực tuyến,Online Payment,0
+0,VBB-VietBank,2020,Chuyển tiền trên kênh số,Online Payment,0
+0,VBB-VietBank,2020,Thanh toán không tiếp xúc,Online Payment,1
+0,VBB-VietBank,2020,Thanh toán điện tử,Online Payment,0
+0,VBB-VietBank,2020,Thanh toán ECOM,Online Payment,0
+0,VBB-VietBank,2020,Giao dịch công nghệ số,Online Payment,0
+0,VBB-VietBank,2020,Giao dịch trực tuyến,Online Payment,0
+0,VBB-VietBank,2020,Dịch vụ trực tuyến,Online Payment,0
+0,VBB-VietBank,2020,Online Payment,Online Payment,0
+0,VBB-VietBank,2020,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,VBB-VietBank,2020,Mobile Payment,Mobile Payment,0
+0,VBB-VietBank,2020,SMS,Mobile Payment,1
+0,VBB-VietBank,2020,QR Code,QR code payment,0
+0,VBB-VietBank,2020,mã QR,QR code payment,0
+0,VBB-VietBank,2020,VietQR,QR code payment,0
+0,VBB-VietBank,2020,Không dùng tiền mặt,Digital wallet,0
+0,VBB-VietBank,2020,Ví điện tử,Digital wallet,0
+0,VBB-VietBank,2020,Tài khoản trực tuyến,Digital wallet,1
+0,VBB-VietBank,2020,Digital wallet,Digital wallet,0
+0,VBB-VietBank,2020,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,VBB-VietBank,2020,vay mua nhà trực tuyến,Online loan,0
+0,VBB-VietBank,2020,Online loan,Online loan,0
+0,VBB-VietBank,2020,Ngoại hối online,Online finance,0
+0,VBB-VietBank,2020,Online finance,Online finance,0
+0,VBB-VietBank,2020,smart contract,Lending platform,0
+0,VBB-VietBank,2020,Hợp đồng thông minh,Lending platform,0
+0,VBB-VietBank,2020,e-form,Lending platform,0
+0,VBB-VietBank,2020,Lending platform,Lending platform,0
+0,VBB-VietBank,2020,Inclusive credit,Inclusive credit,0
+0,VBB-VietBank,2020,Customer portrait,Customer portrait,0
+0,VBB-VietBank,2020,Mô hình hành vi,Customer portrait,0
+0,VBB-VietBank,2020,mô hình VaR,Predictive model,0
+0,VBB-VietBank,2020,Mô hình đo lường rủi ro,Predictive model,0
+0,VBB-VietBank,2020,Mô hình cảnh báo nợ,Predictive model,0
+0,VBB-VietBank,2020,Predictive model,Predictive model,0
+0,VBB-VietBank,2020,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,VBB-VietBank,2020,Credit evaluation,Credit evaluation,0
+0,VBB-VietBank,2020,Anti-fraud,Anti-fraud,0
+0,VBB-VietBank,2020,chống gian lận,Anti-fraud,0
+0,VBB-VietBank,2020,Ngân hàng trực tuyến,Online banking,0
+0,VBB-VietBank,2020,Online banking,Online banking,0
+0,VBB-VietBank,2020,ngân hàng di động,Mobile banking,0
+0,VBB-VietBank,2020,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,VBB-VietBank,2020,SHB Mobile,Mobile banking,0
+0,VBB-VietBank,2020,Mobile banking,Mobile banking,1
+0,VBB-VietBank,2020,E-Mobile,Mobile banking,0
+0,VBB-VietBank,2020,One Time Password,Mobile banking,0
+0,VBB-VietBank,2020,OTP,Mobile banking,0
+0,VBB-VietBank,2020,Ebanking,Internet banking,2
+0,VBB-VietBank,2020,Internet banking,Internet banking,2
+0,VBB-VietBank,2020,SHB Mobile Banking,Bank app,0
+0,VBB-VietBank,2020,ứng dụng di động,Bank app,0
+0,VBB-VietBank,2020,ứng dụng ngân hàng số,Bank app,0
+0,VBB-VietBank,2020,ứng dụng trên điện thoại,Bank app,0
+0,VBB-VietBank,2020,ACB ONE,Bank app,0
+0,VBB-VietBank,2020,VPBank NEO,Bank app,0
+0,VBB-VietBank,2020,MyVIB,Bank app,0
+0,VBB-VietBank,2020,HDBank,Bank app,0
+0,VBB-VietBank,2020,BIDV Smart Banking,Bank app,0
+0,VBB-VietBank,2020,MB Bank,Bank app,0
+0,VBB-VietBank,2020,Vietinbank iPay,Bank app,0
+0,VBB-VietBank,2020,TPBank Mobile,Bank app,0
+0,VBB-VietBank,2020,Agribank E-Mobile Banking,Bank app,0
+0,VBB-VietBank,2020,MSB mBank,Bank app,0
+0,VBB-VietBank,2020,Eximbank EDigi,Bank app,0
+0,VBB-VietBank,2020,Sacombank Pay,Bank app,0
+0,VBB-VietBank,2020,SCB Mobile Banking,Bank app,0
+0,VBB-VietBank,2020,BAOVIET Smart,Bank app,0
+0,VBB-VietBank,2020,BAC A BANK Mobile Banking,Bank app,0
+0,VBB-VietBank,2020,NCB iziMobile,Bank app,0
+0,VBB-VietBank,2020,Liên Việt 24h,Bank app,0
+0,VBB-VietBank,2022,Nền tảng công nghệ,Nền tảng,0
+0,VBB-VietBank,2022,Nền tảng số,Nền tảng,0
+0,VBB-VietBank,2022,Hạ tầng công nghệ,Nền tảng,1
+0,VBB-VietBank,2022,Công nghệ thông tin,Công nghệ,5
+0,VBB-VietBank,2022,CNTT,Công nghệ,0
+0,VBB-VietBank,2022,Kỹ thuật công nghệ,Công nghệ,0
+0,VBB-VietBank,2022,Công nghệ ngân hàng,Công nghệ,0
+0,VBB-VietBank,2022,Công nghệ 4.0,Công nghệ,0
+0,VBB-VietBank,2022,Công nghệ tài chính,Công nghệ,0
+0,VBB-VietBank,2022,Ứng dụng công nghệ,Công nghệ,0
+0,VBB-VietBank,2022,Chuyển đổi số,Công nghệ,3
+0,VBB-VietBank,2022,phát triển công nghệ,Công nghệ,0
+0,VBB-VietBank,2022,Công nghệ Fintech,Công nghệ,0
+0,VBB-VietBank,2022,hệ thống công nghệ,Công nghệ,0
+0,VBB-VietBank,2022,digital transformation,Công nghệ,0
+0,VBB-VietBank,2022,trí tuệ nhân tạo,Artificial intelligence,0
+0,VBB-VietBank,2022,trợ lý ảo,Artificial intelligence,0
+0,VBB-VietBank,2022,Artificial intelligence,Artificial intelligence,0
+0,VBB-VietBank,2022,eKYC,Face recognition,1
+0,VBB-VietBank,2022,xác thực khuôn mặt,Face recognition,0
+0,VBB-VietBank,2022,Face recognition,Face recognition,0
+0,VBB-VietBank,2022,nhận diện giọng nói,Voice recognition,0
+0,VBB-VietBank,2022,Voice recognition,Voice recognition,0
+0,VBB-VietBank,2022,xác thực vân tay,Fingerprint recognition,0
+0,VBB-VietBank,2022,Fingerprint recognition,Fingerprint recognition,0
+0,VBB-VietBank,2022,công nghệ chuỗi khối,Blockchain,0
+0,VBB-VietBank,2022,blockchain,Blockchain,0
+0,VBB-VietBank,2022,điện toán đám mây,Cloud computing,0
+0,VBB-VietBank,2022,Hệ thống PKI,Cloud computing,0
+0,VBB-VietBank,2022,Cloud computing,Cloud computing,0
+0,VBB-VietBank,2022,Cloud service,Cloud service,0
+0,VBB-VietBank,2022,Salesforce Financial Services Cloud,Cloud service,0
+0,VBB-VietBank,2022,dịch vụ đám mây,Cloud service,0
+0,VBB-VietBank,2022,đám mây,Cloud service,0
+0,VBB-VietBank,2022,Cloud platform,Cloud platform,0
+0,VBB-VietBank,2022,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,VBB-VietBank,2022,Adobe Experience Cloud,Cloud platform,0
+0,VBB-VietBank,2022,Dữ liệu (Data),Big Data,0
+0,VBB-VietBank,2022,Dữ liệu lớn,Big Data,0
+0,VBB-VietBank,2022,Big Data,Big Data,0
+0,VBB-VietBank,2022,Khoa học dữ liệu,Data mining,0
+0,VBB-VietBank,2022,Máy học,Data mining,0
+0,VBB-VietBank,2022,Data mining,Data mining,0
+0,VBB-VietBank,2022,Mô hình dữ liệu,Data visualization,0
+0,VBB-VietBank,2022,Dữ liệu và phân tích,Data visualization,0
+0,VBB-VietBank,2022,phân tích dữ liệu,Data visualization,0
+0,VBB-VietBank,2022,Data visualization,Data visualization,0
+0,VBB-VietBank,2022,Thanh toán trực tuyến,Online Payment,0
+0,VBB-VietBank,2022,Chuyển tiền trên kênh số,Online Payment,0
+0,VBB-VietBank,2022,Thanh toán không tiếp xúc,Online Payment,0
+0,VBB-VietBank,2022,Thanh toán điện tử,Online Payment,0
+0,VBB-VietBank,2022,Thanh toán ECOM,Online Payment,0
+0,VBB-VietBank,2022,Giao dịch công nghệ số,Online Payment,0
+0,VBB-VietBank,2022,Giao dịch trực tuyến,Online Payment,0
+0,VBB-VietBank,2022,Dịch vụ trực tuyến,Online Payment,0
+0,VBB-VietBank,2022,Online Payment,Online Payment,0
+0,VBB-VietBank,2022,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,VBB-VietBank,2022,Mobile Payment,Mobile Payment,0
+0,VBB-VietBank,2022,SMS,Mobile Payment,2
+0,VBB-VietBank,2022,QR Code,QR code payment,0
+0,VBB-VietBank,2022,mã QR,QR code payment,1
+0,VBB-VietBank,2022,VietQR,QR code payment,0
+0,VBB-VietBank,2022,Không dùng tiền mặt,Digital wallet,0
+0,VBB-VietBank,2022,Ví điện tử,Digital wallet,0
+0,VBB-VietBank,2022,Tài khoản trực tuyến,Digital wallet,0
+0,VBB-VietBank,2022,Digital wallet,Digital wallet,0
+0,VBB-VietBank,2022,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,VBB-VietBank,2022,vay mua nhà trực tuyến,Online loan,0
+0,VBB-VietBank,2022,Online loan,Online loan,0
+0,VBB-VietBank,2022,Ngoại hối online,Online finance,0
+0,VBB-VietBank,2022,Online finance,Online finance,0
+0,VBB-VietBank,2022,smart contract,Lending platform,0
+0,VBB-VietBank,2022,Hợp đồng thông minh,Lending platform,0
+0,VBB-VietBank,2022,e-form,Lending platform,0
+0,VBB-VietBank,2022,Lending platform,Lending platform,0
+0,VBB-VietBank,2022,Inclusive credit,Inclusive credit,0
+0,VBB-VietBank,2022,Customer portrait,Customer portrait,0
+0,VBB-VietBank,2022,Mô hình hành vi,Customer portrait,0
+0,VBB-VietBank,2022,mô hình VaR,Predictive model,0
+0,VBB-VietBank,2022,Mô hình đo lường rủi ro,Predictive model,0
+0,VBB-VietBank,2022,Mô hình cảnh báo nợ,Predictive model,0
+0,VBB-VietBank,2022,Predictive model,Predictive model,0
+0,VBB-VietBank,2022,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,VBB-VietBank,2022,Credit evaluation,Credit evaluation,0
+0,VBB-VietBank,2022,Anti-fraud,Anti-fraud,0
+0,VBB-VietBank,2022,chống gian lận,Anti-fraud,0
+0,VBB-VietBank,2022,Ngân hàng trực tuyến,Online banking,0
+0,VBB-VietBank,2022,Online banking,Online banking,0
+0,VBB-VietBank,2022,ngân hàng di động,Mobile banking,0
+0,VBB-VietBank,2022,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,VBB-VietBank,2022,SHB Mobile,Mobile banking,0
+0,VBB-VietBank,2022,Mobile banking,Mobile banking,0
+0,VBB-VietBank,2022,E-Mobile,Mobile banking,0
+0,VBB-VietBank,2022,One Time Password,Mobile banking,0
+0,VBB-VietBank,2022,OTP,Mobile banking,2
+0,VBB-VietBank,2022,Ebanking,Internet banking,0
+0,VBB-VietBank,2022,Internet banking,Internet banking,2
+0,VBB-VietBank,2022,SHB Mobile Banking,Bank app,0
+0,VBB-VietBank,2022,ứng dụng di động,Bank app,0
+0,VBB-VietBank,2022,ứng dụng ngân hàng số,Bank app,0
+0,VBB-VietBank,2022,ứng dụng trên điện thoại,Bank app,0
+0,VBB-VietBank,2022,ACB ONE,Bank app,0
+0,VBB-VietBank,2022,VPBank NEO,Bank app,0
+0,VBB-VietBank,2022,MyVIB,Bank app,0
+0,VBB-VietBank,2022,HDBank,Bank app,0
+0,VBB-VietBank,2022,BIDV Smart Banking,Bank app,0
+0,VBB-VietBank,2022,MB Bank,Bank app,0
+0,VBB-VietBank,2022,Vietinbank iPay,Bank app,0
+0,VBB-VietBank,2022,TPBank Mobile,Bank app,0
+0,VBB-VietBank,2022,Agribank E-Mobile Banking,Bank app,0
+0,VBB-VietBank,2022,MSB mBank,Bank app,0
+0,VBB-VietBank,2022,Eximbank EDigi,Bank app,0
+0,VBB-VietBank,2022,Sacombank Pay,Bank app,0
+0,VBB-VietBank,2022,SCB Mobile Banking,Bank app,0
+0,VBB-VietBank,2022,BAOVIET Smart,Bank app,0
+0,VBB-VietBank,2022,BAC A BANK Mobile Banking,Bank app,0
+0,VBB-VietBank,2022,NCB iziMobile,Bank app,0
+0,VBB-VietBank,2022,Liên Việt 24h,Bank app,0
+0,VBB-VietBank,2019,Nền tảng công nghệ,Nền tảng,0
+0,VBB-VietBank,2019,Nền tảng số,Nền tảng,0
+0,VBB-VietBank,2019,Hạ tầng công nghệ,Nền tảng,0
+0,VBB-VietBank,2019,Công nghệ thông tin,Công nghệ,3
+0,VBB-VietBank,2019,CNTT,Công nghệ,6
+0,VBB-VietBank,2019,Kỹ thuật công nghệ,Công nghệ,0
+0,VBB-VietBank,2019,Công nghệ ngân hàng,Công nghệ,0
+0,VBB-VietBank,2019,Công nghệ 4.0,Công nghệ,0
+0,VBB-VietBank,2019,Công nghệ tài chính,Công nghệ,0
+0,VBB-VietBank,2019,Ứng dụng công nghệ,Công nghệ,0
+0,VBB-VietBank,2019,Chuyển đổi số,Công nghệ,0
+0,VBB-VietBank,2019,phát triển công nghệ,Công nghệ,0
+0,VBB-VietBank,2019,Công nghệ Fintech,Công nghệ,0
+0,VBB-VietBank,2019,hệ thống công nghệ,Công nghệ,1
+0,VBB-VietBank,2019,digital transformation,Công nghệ,0
+0,VBB-VietBank,2019,trí tuệ nhân tạo,Artificial intelligence,0
+0,VBB-VietBank,2019,trợ lý ảo,Artificial intelligence,0
+0,VBB-VietBank,2019,Artificial intelligence,Artificial intelligence,0
+0,VBB-VietBank,2019,eKYC,Face recognition,0
+0,VBB-VietBank,2019,xác thực khuôn mặt,Face recognition,0
+0,VBB-VietBank,2019,Face recognition,Face recognition,0
+0,VBB-VietBank,2019,nhận diện giọng nói,Voice recognition,0
+0,VBB-VietBank,2019,Voice recognition,Voice recognition,0
+0,VBB-VietBank,2019,xác thực vân tay,Fingerprint recognition,0
+0,VBB-VietBank,2019,Fingerprint recognition,Fingerprint recognition,0
+0,VBB-VietBank,2019,công nghệ chuỗi khối,Blockchain,0
+0,VBB-VietBank,2019,blockchain,Blockchain,0
+0,VBB-VietBank,2019,điện toán đám mây,Cloud computing,0
+0,VBB-VietBank,2019,Hệ thống PKI,Cloud computing,0
+0,VBB-VietBank,2019,Cloud computing,Cloud computing,0
+0,VBB-VietBank,2019,Cloud service,Cloud service,0
+0,VBB-VietBank,2019,Salesforce Financial Services Cloud,Cloud service,0
+0,VBB-VietBank,2019,dịch vụ đám mây,Cloud service,0
+0,VBB-VietBank,2019,đám mây,Cloud service,0
+0,VBB-VietBank,2019,Cloud platform,Cloud platform,0
+0,VBB-VietBank,2019,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,VBB-VietBank,2019,Adobe Experience Cloud,Cloud platform,0
+0,VBB-VietBank,2019,Dữ liệu (Data),Big Data,0
+0,VBB-VietBank,2019,Dữ liệu lớn,Big Data,0
+0,VBB-VietBank,2019,Big Data,Big Data,0
+0,VBB-VietBank,2019,Khoa học dữ liệu,Data mining,0
+0,VBB-VietBank,2019,Máy học,Data mining,0
+0,VBB-VietBank,2019,Data mining,Data mining,0
+0,VBB-VietBank,2019,Mô hình dữ liệu,Data visualization,0
+0,VBB-VietBank,2019,Dữ liệu và phân tích,Data visualization,0
+0,VBB-VietBank,2019,phân tích dữ liệu,Data visualization,0
+0,VBB-VietBank,2019,Data visualization,Data visualization,0
+0,VBB-VietBank,2019,Thanh toán trực tuyến,Online Payment,0
+0,VBB-VietBank,2019,Chuyển tiền trên kênh số,Online Payment,0
+0,VBB-VietBank,2019,Thanh toán không tiếp xúc,Online Payment,1
+0,VBB-VietBank,2019,Thanh toán điện tử,Online Payment,0
+0,VBB-VietBank,2019,Thanh toán ECOM,Online Payment,0
+0,VBB-VietBank,2019,Giao dịch công nghệ số,Online Payment,0
+0,VBB-VietBank,2019,Giao dịch trực tuyến,Online Payment,0
+0,VBB-VietBank,2019,Dịch vụ trực tuyến,Online Payment,0
+0,VBB-VietBank,2019,Online Payment,Online Payment,0
+0,VBB-VietBank,2019,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,VBB-VietBank,2019,Mobile Payment,Mobile Payment,0
+0,VBB-VietBank,2019,SMS,Mobile Payment,1
+0,VBB-VietBank,2019,QR Code,QR code payment,0
+0,VBB-VietBank,2019,mã QR,QR code payment,0
+0,VBB-VietBank,2019,VietQR,QR code payment,0
+0,VBB-VietBank,2019,Không dùng tiền mặt,Digital wallet,0
+0,VBB-VietBank,2019,Ví điện tử,Digital wallet,0
+0,VBB-VietBank,2019,Tài khoản trực tuyến,Digital wallet,0
+0,VBB-VietBank,2019,Digital wallet,Digital wallet,0
+0,VBB-VietBank,2019,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,VBB-VietBank,2019,vay mua nhà trực tuyến,Online loan,0
+0,VBB-VietBank,2019,Online loan,Online loan,0
+0,VBB-VietBank,2019,Ngoại hối online,Online finance,0
+0,VBB-VietBank,2019,Online finance,Online finance,0
+0,VBB-VietBank,2019,smart contract,Lending platform,0
+0,VBB-VietBank,2019,Hợp đồng thông minh,Lending platform,0
+0,VBB-VietBank,2019,e-form,Lending platform,0
+0,VBB-VietBank,2019,Lending platform,Lending platform,0
+0,VBB-VietBank,2019,Inclusive credit,Inclusive credit,0
+0,VBB-VietBank,2019,Customer portrait,Customer portrait,0
+0,VBB-VietBank,2019,Mô hình hành vi,Customer portrait,0
+0,VBB-VietBank,2019,mô hình VaR,Predictive model,0
+0,VBB-VietBank,2019,Mô hình đo lường rủi ro,Predictive model,0
+0,VBB-VietBank,2019,Mô hình cảnh báo nợ,Predictive model,0
+0,VBB-VietBank,2019,Predictive model,Predictive model,0
+0,VBB-VietBank,2019,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,VBB-VietBank,2019,Credit evaluation,Credit evaluation,0
+0,VBB-VietBank,2019,Anti-fraud,Anti-fraud,0
+0,VBB-VietBank,2019,chống gian lận,Anti-fraud,0
+0,VBB-VietBank,2019,Ngân hàng trực tuyến,Online banking,0
+0,VBB-VietBank,2019,Online banking,Online banking,0
+0,VBB-VietBank,2019,ngân hàng di động,Mobile banking,0
+0,VBB-VietBank,2019,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,VBB-VietBank,2019,SHB Mobile,Mobile banking,0
+0,VBB-VietBank,2019,Mobile banking,Mobile banking,1
+0,VBB-VietBank,2019,E-Mobile,Mobile banking,0
+0,VBB-VietBank,2019,One Time Password,Mobile banking,0
+0,VBB-VietBank,2019,OTP,Mobile banking,0
+0,VBB-VietBank,2019,Ebanking,Internet banking,1
+0,VBB-VietBank,2019,Internet banking,Internet banking,1
+0,VBB-VietBank,2019,SHB Mobile Banking,Bank app,0
+0,VBB-VietBank,2019,ứng dụng di động,Bank app,0
+0,VBB-VietBank,2019,ứng dụng ngân hàng số,Bank app,0
+0,VBB-VietBank,2019,ứng dụng trên điện thoại,Bank app,0
+0,VBB-VietBank,2019,ACB ONE,Bank app,0
+0,VBB-VietBank,2019,VPBank NEO,Bank app,0
+0,VBB-VietBank,2019,MyVIB,Bank app,0
+0,VBB-VietBank,2019,HDBank,Bank app,0
+0,VBB-VietBank,2019,BIDV Smart Banking,Bank app,0
+0,VBB-VietBank,2019,MB Bank,Bank app,0
+0,VBB-VietBank,2019,Vietinbank iPay,Bank app,0
+0,VBB-VietBank,2019,TPBank Mobile,Bank app,0
+0,VBB-VietBank,2019,Agribank E-Mobile Banking,Bank app,0
+0,VBB-VietBank,2019,MSB mBank,Bank app,0
+0,VBB-VietBank,2019,Eximbank EDigi,Bank app,0
+0,VBB-VietBank,2019,Sacombank Pay,Bank app,0
+0,VBB-VietBank,2019,SCB Mobile Banking,Bank app,0
+0,VBB-VietBank,2019,BAOVIET Smart,Bank app,0
+0,VBB-VietBank,2019,BAC A BANK Mobile Banking,Bank app,0
+0,VBB-VietBank,2019,NCB iziMobile,Bank app,0
+0,VBB-VietBank,2019,Liên Việt 24h,Bank app,0
+0,VBB-VietBank,2018,Nền tảng công nghệ,Nền tảng,0
+0,VBB-VietBank,2018,Nền tảng số,Nền tảng,0
+0,VBB-VietBank,2018,Hạ tầng công nghệ,Nền tảng,1
+0,VBB-VietBank,2018,Công nghệ thông tin,Công nghệ,2
+0,VBB-VietBank,2018,CNTT,Công nghệ,7
+0,VBB-VietBank,2018,Kỹ thuật công nghệ,Công nghệ,0
+0,VBB-VietBank,2018,Công nghệ ngân hàng,Công nghệ,0
+0,VBB-VietBank,2018,Công nghệ 4.0,Công nghệ,0
+0,VBB-VietBank,2018,Công nghệ tài chính,Công nghệ,0
+0,VBB-VietBank,2018,Ứng dụng công nghệ,Công nghệ,0
+0,VBB-VietBank,2018,Chuyển đổi số,Công nghệ,0
+0,VBB-VietBank,2018,phát triển công nghệ,Công nghệ,0
+0,VBB-VietBank,2018,Công nghệ Fintech,Công nghệ,0
+0,VBB-VietBank,2018,hệ thống công nghệ,Công nghệ,1
+0,VBB-VietBank,2018,digital transformation,Công nghệ,0
+0,VBB-VietBank,2018,trí tuệ nhân tạo,Artificial intelligence,0
+0,VBB-VietBank,2018,trợ lý ảo,Artificial intelligence,0
+0,VBB-VietBank,2018,Artificial intelligence,Artificial intelligence,0
+0,VBB-VietBank,2018,eKYC,Face recognition,0
+0,VBB-VietBank,2018,xác thực khuôn mặt,Face recognition,0
+0,VBB-VietBank,2018,Face recognition,Face recognition,0
+0,VBB-VietBank,2018,nhận diện giọng nói,Voice recognition,0
+0,VBB-VietBank,2018,Voice recognition,Voice recognition,0
+0,VBB-VietBank,2018,xác thực vân tay,Fingerprint recognition,0
+0,VBB-VietBank,2018,Fingerprint recognition,Fingerprint recognition,0
+0,VBB-VietBank,2018,công nghệ chuỗi khối,Blockchain,0
+0,VBB-VietBank,2018,blockchain,Blockchain,0
+0,VBB-VietBank,2018,điện toán đám mây,Cloud computing,0
+0,VBB-VietBank,2018,Hệ thống PKI,Cloud computing,0
+0,VBB-VietBank,2018,Cloud computing,Cloud computing,0
+0,VBB-VietBank,2018,Cloud service,Cloud service,0
+0,VBB-VietBank,2018,Salesforce Financial Services Cloud,Cloud service,0
+0,VBB-VietBank,2018,dịch vụ đám mây,Cloud service,0
+0,VBB-VietBank,2018,đám mây,Cloud service,0
+0,VBB-VietBank,2018,Cloud platform,Cloud platform,0
+0,VBB-VietBank,2018,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,VBB-VietBank,2018,Adobe Experience Cloud,Cloud platform,0
+0,VBB-VietBank,2018,Dữ liệu (Data),Big Data,0
+0,VBB-VietBank,2018,Dữ liệu lớn,Big Data,0
+0,VBB-VietBank,2018,Big Data,Big Data,0
+0,VBB-VietBank,2018,Khoa học dữ liệu,Data mining,0
+0,VBB-VietBank,2018,Máy học,Data mining,0
+0,VBB-VietBank,2018,Data mining,Data mining,0
+0,VBB-VietBank,2018,Mô hình dữ liệu,Data visualization,0
+0,VBB-VietBank,2018,Dữ liệu và phân tích,Data visualization,0
+0,VBB-VietBank,2018,phân tích dữ liệu,Data visualization,0
+0,VBB-VietBank,2018,Data visualization,Data visualization,0
+0,VBB-VietBank,2018,Thanh toán trực tuyến,Online Payment,0
+0,VBB-VietBank,2018,Chuyển tiền trên kênh số,Online Payment,0
+0,VBB-VietBank,2018,Thanh toán không tiếp xúc,Online Payment,0
+0,VBB-VietBank,2018,Thanh toán điện tử,Online Payment,0
+0,VBB-VietBank,2018,Thanh toán ECOM,Online Payment,0
+0,VBB-VietBank,2018,Giao dịch công nghệ số,Online Payment,0
+0,VBB-VietBank,2018,Giao dịch trực tuyến,Online Payment,0
+0,VBB-VietBank,2018,Dịch vụ trực tuyến,Online Payment,0
+0,VBB-VietBank,2018,Online Payment,Online Payment,0
+0,VBB-VietBank,2018,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,VBB-VietBank,2018,Mobile Payment,Mobile Payment,0
+0,VBB-VietBank,2018,SMS,Mobile Payment,1
+0,VBB-VietBank,2018,QR Code,QR code payment,0
+0,VBB-VietBank,2018,mã QR,QR code payment,0
+0,VBB-VietBank,2018,VietQR,QR code payment,0
+0,VBB-VietBank,2018,Không dùng tiền mặt,Digital wallet,0
+0,VBB-VietBank,2018,Ví điện tử,Digital wallet,0
+0,VBB-VietBank,2018,Tài khoản trực tuyến,Digital wallet,0
+0,VBB-VietBank,2018,Digital wallet,Digital wallet,0
+0,VBB-VietBank,2018,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,VBB-VietBank,2018,vay mua nhà trực tuyến,Online loan,0
+0,VBB-VietBank,2018,Online loan,Online loan,0
+0,VBB-VietBank,2018,Ngoại hối online,Online finance,0
+0,VBB-VietBank,2018,Online finance,Online finance,0
+0,VBB-VietBank,2018,smart contract,Lending platform,0
+0,VBB-VietBank,2018,Hợp đồng thông minh,Lending platform,0
+0,VBB-VietBank,2018,e-form,Lending platform,0
+0,VBB-VietBank,2018,Lending platform,Lending platform,0
+0,VBB-VietBank,2018,Inclusive credit,Inclusive credit,0
+0,VBB-VietBank,2018,Customer portrait,Customer portrait,0
+0,VBB-VietBank,2018,Mô hình hành vi,Customer portrait,0
+0,VBB-VietBank,2018,mô hình VaR,Predictive model,0
+0,VBB-VietBank,2018,Mô hình đo lường rủi ro,Predictive model,0
+0,VBB-VietBank,2018,Mô hình cảnh báo nợ,Predictive model,0
+0,VBB-VietBank,2018,Predictive model,Predictive model,0
+0,VBB-VietBank,2018,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,VBB-VietBank,2018,Credit evaluation,Credit evaluation,0
+0,VBB-VietBank,2018,Anti-fraud,Anti-fraud,0
+0,VBB-VietBank,2018,chống gian lận,Anti-fraud,0
+0,VBB-VietBank,2018,Ngân hàng trực tuyến,Online banking,0
+0,VBB-VietBank,2018,Online banking,Online banking,0
+0,VBB-VietBank,2018,ngân hàng di động,Mobile banking,0
+0,VBB-VietBank,2018,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,VBB-VietBank,2018,SHB Mobile,Mobile banking,0
+0,VBB-VietBank,2018,Mobile banking,Mobile banking,1
+0,VBB-VietBank,2018,E-Mobile,Mobile banking,0
+0,VBB-VietBank,2018,One Time Password,Mobile banking,0
+0,VBB-VietBank,2018,OTP,Mobile banking,0
+0,VBB-VietBank,2018,Ebanking,Internet banking,0
+0,VBB-VietBank,2018,Internet banking,Internet banking,1
+0,VBB-VietBank,2018,SHB Mobile Banking,Bank app,0
+0,VBB-VietBank,2018,ứng dụng di động,Bank app,0
+0,VBB-VietBank,2018,ứng dụng ngân hàng số,Bank app,0
+0,VBB-VietBank,2018,ứng dụng trên điện thoại,Bank app,0
+0,VBB-VietBank,2018,ACB ONE,Bank app,0
+0,VBB-VietBank,2018,VPBank NEO,Bank app,0
+0,VBB-VietBank,2018,MyVIB,Bank app,0
+0,VBB-VietBank,2018,HDBank,Bank app,0
+0,VBB-VietBank,2018,BIDV Smart Banking,Bank app,0
+0,VBB-VietBank,2018,MB Bank,Bank app,0
+0,VBB-VietBank,2018,Vietinbank iPay,Bank app,0
+0,VBB-VietBank,2018,TPBank Mobile,Bank app,0
+0,VBB-VietBank,2018,Agribank E-Mobile Banking,Bank app,0
+0,VBB-VietBank,2018,MSB mBank,Bank app,0
+0,VBB-VietBank,2018,Eximbank EDigi,Bank app,0
+0,VBB-VietBank,2018,Sacombank Pay,Bank app,0
+0,VBB-VietBank,2018,SCB Mobile Banking,Bank app,0
+0,VBB-VietBank,2018,BAOVIET Smart,Bank app,0
+0,VBB-VietBank,2018,BAC A BANK Mobile Banking,Bank app,0
+0,VBB-VietBank,2018,NCB iziMobile,Bank app,0
+0,VBB-VietBank,2018,Liên Việt 24h,Bank app,0

@@ -1,0 +1,709 @@
+,bank,year,keyword,segment,count
+0,LPB-LienvietPost,2017,Nền tảng công nghệ,Nền tảng,0
+0,LPB-LienvietPost,2017,Nền tảng số,Nền tảng,0
+0,LPB-LienvietPost,2017,Hạ tầng công nghệ,Nền tảng,0
+0,LPB-LienvietPost,2017,Công nghệ thông tin,Công nghệ,0
+0,LPB-LienvietPost,2017,CNTT,Công nghệ,0
+0,LPB-LienvietPost,2017,Kỹ thuật công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2017,Công nghệ ngân hàng,Công nghệ,0
+0,LPB-LienvietPost,2017,Công nghệ 4.0,Công nghệ,0
+0,LPB-LienvietPost,2017,Công nghệ tài chính,Công nghệ,0
+0,LPB-LienvietPost,2017,Ứng dụng công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2017,Chuyển đổi số,Công nghệ,0
+0,LPB-LienvietPost,2017,phát triển công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2017,Công nghệ Fintech,Công nghệ,0
+0,LPB-LienvietPost,2017,hệ thống công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2017,digital transformation,Công nghệ,0
+0,LPB-LienvietPost,2017,trí tuệ nhân tạo,Artificial intelligence,0
+0,LPB-LienvietPost,2017,trợ lý ảo,Artificial intelligence,0
+0,LPB-LienvietPost,2017,Artificial intelligence,Artificial intelligence,0
+0,LPB-LienvietPost,2017,eKYC,Face recognition,0
+0,LPB-LienvietPost,2017,xác thực khuôn mặt,Face recognition,0
+0,LPB-LienvietPost,2017,Face recognition,Face recognition,0
+0,LPB-LienvietPost,2017,nhận diện giọng nói,Voice recognition,0
+0,LPB-LienvietPost,2017,Voice recognition,Voice recognition,0
+0,LPB-LienvietPost,2017,xác thực vân tay,Fingerprint recognition,0
+0,LPB-LienvietPost,2017,Fingerprint recognition,Fingerprint recognition,0
+0,LPB-LienvietPost,2017,công nghệ chuỗi khối,Blockchain,0
+0,LPB-LienvietPost,2017,blockchain,Blockchain,0
+0,LPB-LienvietPost,2017,điện toán đám mây,Cloud computing,0
+0,LPB-LienvietPost,2017,Hệ thống PKI,Cloud computing,0
+0,LPB-LienvietPost,2017,Cloud computing,Cloud computing,0
+0,LPB-LienvietPost,2017,Cloud service,Cloud service,0
+0,LPB-LienvietPost,2017,Salesforce Financial Services Cloud,Cloud service,0
+0,LPB-LienvietPost,2017,dịch vụ đám mây,Cloud service,0
+0,LPB-LienvietPost,2017,đám mây,Cloud service,0
+0,LPB-LienvietPost,2017,Cloud platform,Cloud platform,0
+0,LPB-LienvietPost,2017,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,LPB-LienvietPost,2017,Adobe Experience Cloud,Cloud platform,0
+0,LPB-LienvietPost,2017,Dữ liệu (Data),Big Data,0
+0,LPB-LienvietPost,2017,Dữ liệu lớn,Big Data,0
+0,LPB-LienvietPost,2017,Big Data,Big Data,0
+0,LPB-LienvietPost,2017,Khoa học dữ liệu,Data mining,0
+0,LPB-LienvietPost,2017,Máy học,Data mining,0
+0,LPB-LienvietPost,2017,Data mining,Data mining,0
+0,LPB-LienvietPost,2017,Mô hình dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2017,Dữ liệu và phân tích,Data visualization,0
+0,LPB-LienvietPost,2017,phân tích dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2017,Data visualization,Data visualization,0
+0,LPB-LienvietPost,2017,Thanh toán trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2017,Chuyển tiền trên kênh số,Online Payment,0
+0,LPB-LienvietPost,2017,Thanh toán không tiếp xúc,Online Payment,0
+0,LPB-LienvietPost,2017,Thanh toán điện tử,Online Payment,0
+0,LPB-LienvietPost,2017,Thanh toán ECOM,Online Payment,0
+0,LPB-LienvietPost,2017,Giao dịch công nghệ số,Online Payment,0
+0,LPB-LienvietPost,2017,Giao dịch trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2017,Dịch vụ trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2017,Online Payment,Online Payment,0
+0,LPB-LienvietPost,2017,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,LPB-LienvietPost,2017,Mobile Payment,Mobile Payment,0
+0,LPB-LienvietPost,2017,SMS,Mobile Payment,0
+0,LPB-LienvietPost,2017,QR Code,QR code payment,0
+0,LPB-LienvietPost,2017,mã QR,QR code payment,0
+0,LPB-LienvietPost,2017,VietQR,QR code payment,0
+0,LPB-LienvietPost,2017,Không dùng tiền mặt,Digital wallet,0
+0,LPB-LienvietPost,2017,Ví điện tử,Digital wallet,0
+0,LPB-LienvietPost,2017,Tài khoản trực tuyến,Digital wallet,0
+0,LPB-LienvietPost,2017,Digital wallet,Digital wallet,0
+0,LPB-LienvietPost,2017,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,LPB-LienvietPost,2017,vay mua nhà trực tuyến,Online loan,0
+0,LPB-LienvietPost,2017,Online loan,Online loan,0
+0,LPB-LienvietPost,2017,Ngoại hối online,Online finance,0
+0,LPB-LienvietPost,2017,Online finance,Online finance,0
+0,LPB-LienvietPost,2017,smart contract,Lending platform,0
+0,LPB-LienvietPost,2017,Hợp đồng thông minh,Lending platform,0
+0,LPB-LienvietPost,2017,e-form,Lending platform,0
+0,LPB-LienvietPost,2017,Lending platform,Lending platform,0
+0,LPB-LienvietPost,2017,Inclusive credit,Inclusive credit,0
+0,LPB-LienvietPost,2017,Customer portrait,Customer portrait,0
+0,LPB-LienvietPost,2017,Mô hình hành vi,Customer portrait,0
+0,LPB-LienvietPost,2017,mô hình VaR,Predictive model,0
+0,LPB-LienvietPost,2017,Mô hình đo lường rủi ro,Predictive model,0
+0,LPB-LienvietPost,2017,Mô hình cảnh báo nợ,Predictive model,0
+0,LPB-LienvietPost,2017,Predictive model,Predictive model,0
+0,LPB-LienvietPost,2017,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,LPB-LienvietPost,2017,Credit evaluation,Credit evaluation,0
+0,LPB-LienvietPost,2017,Anti-fraud,Anti-fraud,0
+0,LPB-LienvietPost,2017,chống gian lận,Anti-fraud,0
+0,LPB-LienvietPost,2017,Ngân hàng trực tuyến,Online banking,0
+0,LPB-LienvietPost,2017,Online banking,Online banking,0
+0,LPB-LienvietPost,2017,ngân hàng di động,Mobile banking,0
+0,LPB-LienvietPost,2017,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,LPB-LienvietPost,2017,SHB Mobile,Mobile banking,0
+0,LPB-LienvietPost,2017,Mobile banking,Mobile banking,0
+0,LPB-LienvietPost,2017,E-Mobile,Mobile banking,0
+0,LPB-LienvietPost,2017,One Time Password,Mobile banking,0
+0,LPB-LienvietPost,2017,OTP,Mobile banking,0
+0,LPB-LienvietPost,2017,Ebanking,Internet banking,8
+0,LPB-LienvietPost,2017,Internet banking,Internet banking,0
+0,LPB-LienvietPost,2017,SHB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2017,ứng dụng di động,Bank app,0
+0,LPB-LienvietPost,2017,ứng dụng ngân hàng số,Bank app,0
+0,LPB-LienvietPost,2017,ứng dụng trên điện thoại,Bank app,0
+0,LPB-LienvietPost,2017,ACB ONE,Bank app,0
+0,LPB-LienvietPost,2017,VPBank NEO,Bank app,0
+0,LPB-LienvietPost,2017,MyVIB,Bank app,0
+0,LPB-LienvietPost,2017,HDBank,Bank app,0
+0,LPB-LienvietPost,2017,BIDV Smart Banking,Bank app,0
+0,LPB-LienvietPost,2017,MB Bank,Bank app,0
+0,LPB-LienvietPost,2017,Vietinbank iPay,Bank app,0
+0,LPB-LienvietPost,2017,TPBank Mobile,Bank app,0
+0,LPB-LienvietPost,2017,Agribank E-Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2017,MSB mBank,Bank app,0
+0,LPB-LienvietPost,2017,Eximbank EDigi,Bank app,0
+0,LPB-LienvietPost,2017,Sacombank Pay,Bank app,0
+0,LPB-LienvietPost,2017,SCB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2017,BAOVIET Smart,Bank app,0
+0,LPB-LienvietPost,2017,BAC A BANK Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2017,NCB iziMobile,Bank app,0
+0,LPB-LienvietPost,2017,Liên Việt 24h,Bank app,0
+0,LPB-LienvietPost,2013,Nền tảng công nghệ,Nền tảng,0
+0,LPB-LienvietPost,2013,Nền tảng số,Nền tảng,0
+0,LPB-LienvietPost,2013,Hạ tầng công nghệ,Nền tảng,0
+0,LPB-LienvietPost,2013,Công nghệ thông tin,Công nghệ,0
+0,LPB-LienvietPost,2013,CNTT,Công nghệ,0
+0,LPB-LienvietPost,2013,Kỹ thuật công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2013,Công nghệ ngân hàng,Công nghệ,0
+0,LPB-LienvietPost,2013,Công nghệ 4.0,Công nghệ,0
+0,LPB-LienvietPost,2013,Công nghệ tài chính,Công nghệ,0
+0,LPB-LienvietPost,2013,Ứng dụng công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2013,Chuyển đổi số,Công nghệ,0
+0,LPB-LienvietPost,2013,phát triển công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2013,Công nghệ Fintech,Công nghệ,0
+0,LPB-LienvietPost,2013,hệ thống công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2013,digital transformation,Công nghệ,0
+0,LPB-LienvietPost,2013,trí tuệ nhân tạo,Artificial intelligence,0
+0,LPB-LienvietPost,2013,trợ lý ảo,Artificial intelligence,0
+0,LPB-LienvietPost,2013,Artificial intelligence,Artificial intelligence,0
+0,LPB-LienvietPost,2013,eKYC,Face recognition,0
+0,LPB-LienvietPost,2013,xác thực khuôn mặt,Face recognition,0
+0,LPB-LienvietPost,2013,Face recognition,Face recognition,0
+0,LPB-LienvietPost,2013,nhận diện giọng nói,Voice recognition,0
+0,LPB-LienvietPost,2013,Voice recognition,Voice recognition,0
+0,LPB-LienvietPost,2013,xác thực vân tay,Fingerprint recognition,0
+0,LPB-LienvietPost,2013,Fingerprint recognition,Fingerprint recognition,0
+0,LPB-LienvietPost,2013,công nghệ chuỗi khối,Blockchain,0
+0,LPB-LienvietPost,2013,blockchain,Blockchain,0
+0,LPB-LienvietPost,2013,điện toán đám mây,Cloud computing,0
+0,LPB-LienvietPost,2013,Hệ thống PKI,Cloud computing,0
+0,LPB-LienvietPost,2013,Cloud computing,Cloud computing,0
+0,LPB-LienvietPost,2013,Cloud service,Cloud service,0
+0,LPB-LienvietPost,2013,Salesforce Financial Services Cloud,Cloud service,0
+0,LPB-LienvietPost,2013,dịch vụ đám mây,Cloud service,0
+0,LPB-LienvietPost,2013,đám mây,Cloud service,0
+0,LPB-LienvietPost,2013,Cloud platform,Cloud platform,0
+0,LPB-LienvietPost,2013,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,LPB-LienvietPost,2013,Adobe Experience Cloud,Cloud platform,0
+0,LPB-LienvietPost,2013,Dữ liệu (Data),Big Data,0
+0,LPB-LienvietPost,2013,Dữ liệu lớn,Big Data,0
+0,LPB-LienvietPost,2013,Big Data,Big Data,0
+0,LPB-LienvietPost,2013,Khoa học dữ liệu,Data mining,0
+0,LPB-LienvietPost,2013,Máy học,Data mining,0
+0,LPB-LienvietPost,2013,Data mining,Data mining,0
+0,LPB-LienvietPost,2013,Mô hình dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2013,Dữ liệu và phân tích,Data visualization,0
+0,LPB-LienvietPost,2013,phân tích dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2013,Data visualization,Data visualization,0
+0,LPB-LienvietPost,2013,Thanh toán trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2013,Chuyển tiền trên kênh số,Online Payment,0
+0,LPB-LienvietPost,2013,Thanh toán không tiếp xúc,Online Payment,0
+0,LPB-LienvietPost,2013,Thanh toán điện tử,Online Payment,0
+0,LPB-LienvietPost,2013,Thanh toán ECOM,Online Payment,0
+0,LPB-LienvietPost,2013,Giao dịch công nghệ số,Online Payment,0
+0,LPB-LienvietPost,2013,Giao dịch trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2013,Dịch vụ trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2013,Online Payment,Online Payment,0
+0,LPB-LienvietPost,2013,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,LPB-LienvietPost,2013,Mobile Payment,Mobile Payment,0
+0,LPB-LienvietPost,2013,SMS,Mobile Payment,2
+0,LPB-LienvietPost,2013,QR Code,QR code payment,0
+0,LPB-LienvietPost,2013,mã QR,QR code payment,0
+0,LPB-LienvietPost,2013,VietQR,QR code payment,0
+0,LPB-LienvietPost,2013,Không dùng tiền mặt,Digital wallet,0
+0,LPB-LienvietPost,2013,Ví điện tử,Digital wallet,0
+0,LPB-LienvietPost,2013,Tài khoản trực tuyến,Digital wallet,0
+0,LPB-LienvietPost,2013,Digital wallet,Digital wallet,0
+0,LPB-LienvietPost,2013,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,LPB-LienvietPost,2013,vay mua nhà trực tuyến,Online loan,0
+0,LPB-LienvietPost,2013,Online loan,Online loan,0
+0,LPB-LienvietPost,2013,Ngoại hối online,Online finance,0
+0,LPB-LienvietPost,2013,Online finance,Online finance,0
+0,LPB-LienvietPost,2013,smart contract,Lending platform,0
+0,LPB-LienvietPost,2013,Hợp đồng thông minh,Lending platform,0
+0,LPB-LienvietPost,2013,e-form,Lending platform,0
+0,LPB-LienvietPost,2013,Lending platform,Lending platform,0
+0,LPB-LienvietPost,2013,Inclusive credit,Inclusive credit,0
+0,LPB-LienvietPost,2013,Customer portrait,Customer portrait,0
+0,LPB-LienvietPost,2013,Mô hình hành vi,Customer portrait,0
+0,LPB-LienvietPost,2013,mô hình VaR,Predictive model,0
+0,LPB-LienvietPost,2013,Mô hình đo lường rủi ro,Predictive model,0
+0,LPB-LienvietPost,2013,Mô hình cảnh báo nợ,Predictive model,0
+0,LPB-LienvietPost,2013,Predictive model,Predictive model,0
+0,LPB-LienvietPost,2013,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,LPB-LienvietPost,2013,Credit evaluation,Credit evaluation,0
+0,LPB-LienvietPost,2013,Anti-fraud,Anti-fraud,0
+0,LPB-LienvietPost,2013,chống gian lận,Anti-fraud,0
+0,LPB-LienvietPost,2013,Ngân hàng trực tuyến,Online banking,0
+0,LPB-LienvietPost,2013,Online banking,Online banking,0
+0,LPB-LienvietPost,2013,ngân hàng di động,Mobile banking,0
+0,LPB-LienvietPost,2013,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,LPB-LienvietPost,2013,SHB Mobile,Mobile banking,0
+0,LPB-LienvietPost,2013,Mobile banking,Mobile banking,1
+0,LPB-LienvietPost,2013,E-Mobile,Mobile banking,0
+0,LPB-LienvietPost,2013,One Time Password,Mobile banking,0
+0,LPB-LienvietPost,2013,OTP,Mobile banking,0
+0,LPB-LienvietPost,2013,Ebanking,Internet banking,1
+0,LPB-LienvietPost,2013,Internet banking,Internet banking,2
+0,LPB-LienvietPost,2013,SHB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2013,ứng dụng di động,Bank app,0
+0,LPB-LienvietPost,2013,ứng dụng ngân hàng số,Bank app,0
+0,LPB-LienvietPost,2013,ứng dụng trên điện thoại,Bank app,0
+0,LPB-LienvietPost,2013,ACB ONE,Bank app,0
+0,LPB-LienvietPost,2013,VPBank NEO,Bank app,0
+0,LPB-LienvietPost,2013,MyVIB,Bank app,0
+0,LPB-LienvietPost,2013,HDBank,Bank app,0
+0,LPB-LienvietPost,2013,BIDV Smart Banking,Bank app,0
+0,LPB-LienvietPost,2013,MB Bank,Bank app,0
+0,LPB-LienvietPost,2013,Vietinbank iPay,Bank app,0
+0,LPB-LienvietPost,2013,TPBank Mobile,Bank app,0
+0,LPB-LienvietPost,2013,Agribank E-Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2013,MSB mBank,Bank app,0
+0,LPB-LienvietPost,2013,Eximbank EDigi,Bank app,0
+0,LPB-LienvietPost,2013,Sacombank Pay,Bank app,0
+0,LPB-LienvietPost,2013,SCB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2013,BAOVIET Smart,Bank app,0
+0,LPB-LienvietPost,2013,BAC A BANK Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2013,NCB iziMobile,Bank app,0
+0,LPB-LienvietPost,2013,Liên Việt 24h,Bank app,0
+0,LPB-LienvietPost,2012,Nền tảng công nghệ,Nền tảng,0
+0,LPB-LienvietPost,2012,Nền tảng số,Nền tảng,0
+0,LPB-LienvietPost,2012,Hạ tầng công nghệ,Nền tảng,0
+0,LPB-LienvietPost,2012,Công nghệ thông tin,Công nghệ,0
+0,LPB-LienvietPost,2012,CNTT,Công nghệ,0
+0,LPB-LienvietPost,2012,Kỹ thuật công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2012,Công nghệ ngân hàng,Công nghệ,0
+0,LPB-LienvietPost,2012,Công nghệ 4.0,Công nghệ,0
+0,LPB-LienvietPost,2012,Công nghệ tài chính,Công nghệ,0
+0,LPB-LienvietPost,2012,Ứng dụng công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2012,Chuyển đổi số,Công nghệ,0
+0,LPB-LienvietPost,2012,phát triển công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2012,Công nghệ Fintech,Công nghệ,0
+0,LPB-LienvietPost,2012,hệ thống công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2012,digital transformation,Công nghệ,0
+0,LPB-LienvietPost,2012,trí tuệ nhân tạo,Artificial intelligence,0
+0,LPB-LienvietPost,2012,trợ lý ảo,Artificial intelligence,0
+0,LPB-LienvietPost,2012,Artificial intelligence,Artificial intelligence,0
+0,LPB-LienvietPost,2012,eKYC,Face recognition,0
+0,LPB-LienvietPost,2012,xác thực khuôn mặt,Face recognition,0
+0,LPB-LienvietPost,2012,Face recognition,Face recognition,0
+0,LPB-LienvietPost,2012,nhận diện giọng nói,Voice recognition,0
+0,LPB-LienvietPost,2012,Voice recognition,Voice recognition,0
+0,LPB-LienvietPost,2012,xác thực vân tay,Fingerprint recognition,0
+0,LPB-LienvietPost,2012,Fingerprint recognition,Fingerprint recognition,0
+0,LPB-LienvietPost,2012,công nghệ chuỗi khối,Blockchain,0
+0,LPB-LienvietPost,2012,blockchain,Blockchain,0
+0,LPB-LienvietPost,2012,điện toán đám mây,Cloud computing,0
+0,LPB-LienvietPost,2012,Hệ thống PKI,Cloud computing,0
+0,LPB-LienvietPost,2012,Cloud computing,Cloud computing,0
+0,LPB-LienvietPost,2012,Cloud service,Cloud service,0
+0,LPB-LienvietPost,2012,Salesforce Financial Services Cloud,Cloud service,0
+0,LPB-LienvietPost,2012,dịch vụ đám mây,Cloud service,0
+0,LPB-LienvietPost,2012,đám mây,Cloud service,0
+0,LPB-LienvietPost,2012,Cloud platform,Cloud platform,0
+0,LPB-LienvietPost,2012,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,LPB-LienvietPost,2012,Adobe Experience Cloud,Cloud platform,0
+0,LPB-LienvietPost,2012,Dữ liệu (Data),Big Data,0
+0,LPB-LienvietPost,2012,Dữ liệu lớn,Big Data,0
+0,LPB-LienvietPost,2012,Big Data,Big Data,0
+0,LPB-LienvietPost,2012,Khoa học dữ liệu,Data mining,0
+0,LPB-LienvietPost,2012,Máy học,Data mining,0
+0,LPB-LienvietPost,2012,Data mining,Data mining,0
+0,LPB-LienvietPost,2012,Mô hình dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2012,Dữ liệu và phân tích,Data visualization,0
+0,LPB-LienvietPost,2012,phân tích dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2012,Data visualization,Data visualization,0
+0,LPB-LienvietPost,2012,Thanh toán trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2012,Chuyển tiền trên kênh số,Online Payment,0
+0,LPB-LienvietPost,2012,Thanh toán không tiếp xúc,Online Payment,0
+0,LPB-LienvietPost,2012,Thanh toán điện tử,Online Payment,0
+0,LPB-LienvietPost,2012,Thanh toán ECOM,Online Payment,0
+0,LPB-LienvietPost,2012,Giao dịch công nghệ số,Online Payment,0
+0,LPB-LienvietPost,2012,Giao dịch trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2012,Dịch vụ trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2012,Online Payment,Online Payment,0
+0,LPB-LienvietPost,2012,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,LPB-LienvietPost,2012,Mobile Payment,Mobile Payment,0
+0,LPB-LienvietPost,2012,SMS,Mobile Payment,1
+0,LPB-LienvietPost,2012,QR Code,QR code payment,0
+0,LPB-LienvietPost,2012,mã QR,QR code payment,0
+0,LPB-LienvietPost,2012,VietQR,QR code payment,0
+0,LPB-LienvietPost,2012,Không dùng tiền mặt,Digital wallet,0
+0,LPB-LienvietPost,2012,Ví điện tử,Digital wallet,0
+0,LPB-LienvietPost,2012,Tài khoản trực tuyến,Digital wallet,0
+0,LPB-LienvietPost,2012,Digital wallet,Digital wallet,0
+0,LPB-LienvietPost,2012,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,LPB-LienvietPost,2012,vay mua nhà trực tuyến,Online loan,0
+0,LPB-LienvietPost,2012,Online loan,Online loan,0
+0,LPB-LienvietPost,2012,Ngoại hối online,Online finance,0
+0,LPB-LienvietPost,2012,Online finance,Online finance,0
+0,LPB-LienvietPost,2012,smart contract,Lending platform,0
+0,LPB-LienvietPost,2012,Hợp đồng thông minh,Lending platform,0
+0,LPB-LienvietPost,2012,e-form,Lending platform,0
+0,LPB-LienvietPost,2012,Lending platform,Lending platform,0
+0,LPB-LienvietPost,2012,Inclusive credit,Inclusive credit,0
+0,LPB-LienvietPost,2012,Customer portrait,Customer portrait,0
+0,LPB-LienvietPost,2012,Mô hình hành vi,Customer portrait,0
+0,LPB-LienvietPost,2012,mô hình VaR,Predictive model,0
+0,LPB-LienvietPost,2012,Mô hình đo lường rủi ro,Predictive model,0
+0,LPB-LienvietPost,2012,Mô hình cảnh báo nợ,Predictive model,0
+0,LPB-LienvietPost,2012,Predictive model,Predictive model,0
+0,LPB-LienvietPost,2012,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,LPB-LienvietPost,2012,Credit evaluation,Credit evaluation,0
+0,LPB-LienvietPost,2012,Anti-fraud,Anti-fraud,0
+0,LPB-LienvietPost,2012,chống gian lận,Anti-fraud,0
+0,LPB-LienvietPost,2012,Ngân hàng trực tuyến,Online banking,0
+0,LPB-LienvietPost,2012,Online banking,Online banking,0
+0,LPB-LienvietPost,2012,ngân hàng di động,Mobile banking,0
+0,LPB-LienvietPost,2012,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,LPB-LienvietPost,2012,SHB Mobile,Mobile banking,0
+0,LPB-LienvietPost,2012,Mobile banking,Mobile banking,0
+0,LPB-LienvietPost,2012,E-Mobile,Mobile banking,0
+0,LPB-LienvietPost,2012,One Time Password,Mobile banking,0
+0,LPB-LienvietPost,2012,OTP,Mobile banking,0
+0,LPB-LienvietPost,2012,Ebanking,Internet banking,1
+0,LPB-LienvietPost,2012,Internet banking,Internet banking,1
+0,LPB-LienvietPost,2012,SHB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2012,ứng dụng di động,Bank app,0
+0,LPB-LienvietPost,2012,ứng dụng ngân hàng số,Bank app,0
+0,LPB-LienvietPost,2012,ứng dụng trên điện thoại,Bank app,0
+0,LPB-LienvietPost,2012,ACB ONE,Bank app,0
+0,LPB-LienvietPost,2012,VPBank NEO,Bank app,0
+0,LPB-LienvietPost,2012,MyVIB,Bank app,0
+0,LPB-LienvietPost,2012,HDBank,Bank app,0
+0,LPB-LienvietPost,2012,BIDV Smart Banking,Bank app,0
+0,LPB-LienvietPost,2012,MB Bank,Bank app,0
+0,LPB-LienvietPost,2012,Vietinbank iPay,Bank app,0
+0,LPB-LienvietPost,2012,TPBank Mobile,Bank app,0
+0,LPB-LienvietPost,2012,Agribank E-Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2012,MSB mBank,Bank app,0
+0,LPB-LienvietPost,2012,Eximbank EDigi,Bank app,0
+0,LPB-LienvietPost,2012,Sacombank Pay,Bank app,0
+0,LPB-LienvietPost,2012,SCB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2012,BAOVIET Smart,Bank app,0
+0,LPB-LienvietPost,2012,BAC A BANK Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2012,NCB iziMobile,Bank app,0
+0,LPB-LienvietPost,2012,Liên Việt 24h,Bank app,0
+0,LPB-LienvietPost,2020,Nền tảng công nghệ,Nền tảng,1
+0,LPB-LienvietPost,2020,Nền tảng số,Nền tảng,1
+0,LPB-LienvietPost,2020,Hạ tầng công nghệ,Nền tảng,1
+0,LPB-LienvietPost,2020,Công nghệ thông tin,Công nghệ,11
+0,LPB-LienvietPost,2020,CNTT,Công nghệ,8
+0,LPB-LienvietPost,2020,Kỹ thuật công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2020,Công nghệ ngân hàng,Công nghệ,0
+0,LPB-LienvietPost,2020,Công nghệ 4.0,Công nghệ,0
+0,LPB-LienvietPost,2020,Công nghệ tài chính,Công nghệ,0
+0,LPB-LienvietPost,2020,Ứng dụng công nghệ,Công nghệ,5
+0,LPB-LienvietPost,2020,Chuyển đổi số,Công nghệ,12
+0,LPB-LienvietPost,2020,phát triển công nghệ,Công nghệ,1
+0,LPB-LienvietPost,2020,Công nghệ Fintech,Công nghệ,0
+0,LPB-LienvietPost,2020,hệ thống công nghệ,Công nghệ,1
+0,LPB-LienvietPost,2020,digital transformation,Công nghệ,0
+0,LPB-LienvietPost,2020,trí tuệ nhân tạo,Artificial intelligence,0
+0,LPB-LienvietPost,2020,trợ lý ảo,Artificial intelligence,0
+0,LPB-LienvietPost,2020,Artificial intelligence,Artificial intelligence,0
+0,LPB-LienvietPost,2020,eKYC,Face recognition,3
+0,LPB-LienvietPost,2020,xác thực khuôn mặt,Face recognition,0
+0,LPB-LienvietPost,2020,Face recognition,Face recognition,0
+0,LPB-LienvietPost,2020,nhận diện giọng nói,Voice recognition,0
+0,LPB-LienvietPost,2020,Voice recognition,Voice recognition,0
+0,LPB-LienvietPost,2020,xác thực vân tay,Fingerprint recognition,0
+0,LPB-LienvietPost,2020,Fingerprint recognition,Fingerprint recognition,0
+0,LPB-LienvietPost,2020,công nghệ chuỗi khối,Blockchain,0
+0,LPB-LienvietPost,2020,blockchain,Blockchain,0
+0,LPB-LienvietPost,2020,điện toán đám mây,Cloud computing,0
+0,LPB-LienvietPost,2020,Hệ thống PKI,Cloud computing,0
+0,LPB-LienvietPost,2020,Cloud computing,Cloud computing,0
+0,LPB-LienvietPost,2020,Cloud service,Cloud service,0
+0,LPB-LienvietPost,2020,Salesforce Financial Services Cloud,Cloud service,0
+0,LPB-LienvietPost,2020,dịch vụ đám mây,Cloud service,0
+0,LPB-LienvietPost,2020,đám mây,Cloud service,0
+0,LPB-LienvietPost,2020,Cloud platform,Cloud platform,0
+0,LPB-LienvietPost,2020,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,LPB-LienvietPost,2020,Adobe Experience Cloud,Cloud platform,0
+0,LPB-LienvietPost,2020,Dữ liệu (Data),Big Data,0
+0,LPB-LienvietPost,2020,Dữ liệu lớn,Big Data,0
+0,LPB-LienvietPost,2020,Big Data,Big Data,1
+0,LPB-LienvietPost,2020,Khoa học dữ liệu,Data mining,0
+0,LPB-LienvietPost,2020,Máy học,Data mining,0
+0,LPB-LienvietPost,2020,Data mining,Data mining,0
+0,LPB-LienvietPost,2020,Mô hình dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2020,Dữ liệu và phân tích,Data visualization,0
+0,LPB-LienvietPost,2020,phân tích dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2020,Data visualization,Data visualization,0
+0,LPB-LienvietPost,2020,Thanh toán trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2020,Chuyển tiền trên kênh số,Online Payment,0
+0,LPB-LienvietPost,2020,Thanh toán không tiếp xúc,Online Payment,0
+0,LPB-LienvietPost,2020,Thanh toán điện tử,Online Payment,0
+0,LPB-LienvietPost,2020,Thanh toán ECOM,Online Payment,0
+0,LPB-LienvietPost,2020,Giao dịch công nghệ số,Online Payment,0
+0,LPB-LienvietPost,2020,Giao dịch trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2020,Dịch vụ trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2020,Online Payment,Online Payment,0
+0,LPB-LienvietPost,2020,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,LPB-LienvietPost,2020,Mobile Payment,Mobile Payment,0
+0,LPB-LienvietPost,2020,SMS,Mobile Payment,1
+0,LPB-LienvietPost,2020,QR Code,QR code payment,0
+0,LPB-LienvietPost,2020,mã QR,QR code payment,0
+0,LPB-LienvietPost,2020,VietQR,QR code payment,0
+0,LPB-LienvietPost,2020,Không dùng tiền mặt,Digital wallet,1
+0,LPB-LienvietPost,2020,Ví điện tử,Digital wallet,0
+0,LPB-LienvietPost,2020,Tài khoản trực tuyến,Digital wallet,0
+0,LPB-LienvietPost,2020,Digital wallet,Digital wallet,0
+0,LPB-LienvietPost,2020,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,LPB-LienvietPost,2020,vay mua nhà trực tuyến,Online loan,0
+0,LPB-LienvietPost,2020,Online loan,Online loan,0
+0,LPB-LienvietPost,2020,Ngoại hối online,Online finance,0
+0,LPB-LienvietPost,2020,Online finance,Online finance,0
+0,LPB-LienvietPost,2020,smart contract,Lending platform,0
+0,LPB-LienvietPost,2020,Hợp đồng thông minh,Lending platform,0
+0,LPB-LienvietPost,2020,e-form,Lending platform,0
+0,LPB-LienvietPost,2020,Lending platform,Lending platform,0
+0,LPB-LienvietPost,2020,Inclusive credit,Inclusive credit,0
+0,LPB-LienvietPost,2020,Customer portrait,Customer portrait,0
+0,LPB-LienvietPost,2020,Mô hình hành vi,Customer portrait,0
+0,LPB-LienvietPost,2020,mô hình VaR,Predictive model,0
+0,LPB-LienvietPost,2020,Mô hình đo lường rủi ro,Predictive model,0
+0,LPB-LienvietPost,2020,Mô hình cảnh báo nợ,Predictive model,0
+0,LPB-LienvietPost,2020,Predictive model,Predictive model,0
+0,LPB-LienvietPost,2020,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,LPB-LienvietPost,2020,Credit evaluation,Credit evaluation,0
+0,LPB-LienvietPost,2020,Anti-fraud,Anti-fraud,0
+0,LPB-LienvietPost,2020,chống gian lận,Anti-fraud,0
+0,LPB-LienvietPost,2020,Ngân hàng trực tuyến,Online banking,0
+0,LPB-LienvietPost,2020,Online banking,Online banking,0
+0,LPB-LienvietPost,2020,ngân hàng di động,Mobile banking,0
+0,LPB-LienvietPost,2020,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,LPB-LienvietPost,2020,SHB Mobile,Mobile banking,0
+0,LPB-LienvietPost,2020,Mobile banking,Mobile banking,1
+0,LPB-LienvietPost,2020,E-Mobile,Mobile banking,0
+0,LPB-LienvietPost,2020,One Time Password,Mobile banking,0
+0,LPB-LienvietPost,2020,OTP,Mobile banking,0
+0,LPB-LienvietPost,2020,Ebanking,Internet banking,0
+0,LPB-LienvietPost,2020,Internet banking,Internet banking,2
+0,LPB-LienvietPost,2020,SHB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2020,ứng dụng di động,Bank app,1
+0,LPB-LienvietPost,2020,ứng dụng ngân hàng số,Bank app,2
+0,LPB-LienvietPost,2020,ứng dụng trên điện thoại,Bank app,0
+0,LPB-LienvietPost,2020,ACB ONE,Bank app,0
+0,LPB-LienvietPost,2020,VPBank NEO,Bank app,0
+0,LPB-LienvietPost,2020,MyVIB,Bank app,0
+0,LPB-LienvietPost,2020,HDBank,Bank app,0
+0,LPB-LienvietPost,2020,BIDV Smart Banking,Bank app,0
+0,LPB-LienvietPost,2020,MB Bank,Bank app,0
+0,LPB-LienvietPost,2020,Vietinbank iPay,Bank app,0
+0,LPB-LienvietPost,2020,TPBank Mobile,Bank app,0
+0,LPB-LienvietPost,2020,Agribank E-Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2020,MSB mBank,Bank app,0
+0,LPB-LienvietPost,2020,Eximbank EDigi,Bank app,0
+0,LPB-LienvietPost,2020,Sacombank Pay,Bank app,0
+0,LPB-LienvietPost,2020,SCB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2020,BAOVIET Smart,Bank app,0
+0,LPB-LienvietPost,2020,BAC A BANK Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2020,NCB iziMobile,Bank app,0
+0,LPB-LienvietPost,2020,Liên Việt 24h,Bank app,0
+0,LPB-LienvietPost,2021,Nền tảng công nghệ,Nền tảng,0
+0,LPB-LienvietPost,2021,Nền tảng số,Nền tảng,1
+0,LPB-LienvietPost,2021,Hạ tầng công nghệ,Nền tảng,0
+0,LPB-LienvietPost,2021,Công nghệ thông tin,Công nghệ,8
+0,LPB-LienvietPost,2021,CNTT,Công nghệ,14
+0,LPB-LienvietPost,2021,Kỹ thuật công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2021,Công nghệ ngân hàng,Công nghệ,0
+0,LPB-LienvietPost,2021,Công nghệ 4.0,Công nghệ,1
+0,LPB-LienvietPost,2021,Công nghệ tài chính,Công nghệ,0
+0,LPB-LienvietPost,2021,Ứng dụng công nghệ,Công nghệ,2
+0,LPB-LienvietPost,2021,Chuyển đổi số,Công nghệ,13
+0,LPB-LienvietPost,2021,phát triển công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2021,Công nghệ Fintech,Công nghệ,0
+0,LPB-LienvietPost,2021,hệ thống công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2021,digital transformation,Công nghệ,0
+0,LPB-LienvietPost,2021,trí tuệ nhân tạo,Artificial intelligence,0
+0,LPB-LienvietPost,2021,trợ lý ảo,Artificial intelligence,0
+0,LPB-LienvietPost,2021,Artificial intelligence,Artificial intelligence,0
+0,LPB-LienvietPost,2021,eKYC,Face recognition,0
+0,LPB-LienvietPost,2021,xác thực khuôn mặt,Face recognition,0
+0,LPB-LienvietPost,2021,Face recognition,Face recognition,0
+0,LPB-LienvietPost,2021,nhận diện giọng nói,Voice recognition,0
+0,LPB-LienvietPost,2021,Voice recognition,Voice recognition,0
+0,LPB-LienvietPost,2021,xác thực vân tay,Fingerprint recognition,0
+0,LPB-LienvietPost,2021,Fingerprint recognition,Fingerprint recognition,0
+0,LPB-LienvietPost,2021,công nghệ chuỗi khối,Blockchain,0
+0,LPB-LienvietPost,2021,blockchain,Blockchain,0
+0,LPB-LienvietPost,2021,điện toán đám mây,Cloud computing,0
+0,LPB-LienvietPost,2021,Hệ thống PKI,Cloud computing,0
+0,LPB-LienvietPost,2021,Cloud computing,Cloud computing,0
+0,LPB-LienvietPost,2021,Cloud service,Cloud service,0
+0,LPB-LienvietPost,2021,Salesforce Financial Services Cloud,Cloud service,0
+0,LPB-LienvietPost,2021,dịch vụ đám mây,Cloud service,0
+0,LPB-LienvietPost,2021,đám mây,Cloud service,0
+0,LPB-LienvietPost,2021,Cloud platform,Cloud platform,0
+0,LPB-LienvietPost,2021,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,LPB-LienvietPost,2021,Adobe Experience Cloud,Cloud platform,0
+0,LPB-LienvietPost,2021,Dữ liệu (Data),Big Data,0
+0,LPB-LienvietPost,2021,Dữ liệu lớn,Big Data,0
+0,LPB-LienvietPost,2021,Big Data,Big Data,0
+0,LPB-LienvietPost,2021,Khoa học dữ liệu,Data mining,0
+0,LPB-LienvietPost,2021,Máy học,Data mining,0
+0,LPB-LienvietPost,2021,Data mining,Data mining,0
+0,LPB-LienvietPost,2021,Mô hình dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2021,Dữ liệu và phân tích,Data visualization,0
+0,LPB-LienvietPost,2021,phân tích dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2021,Data visualization,Data visualization,0
+0,LPB-LienvietPost,2021,Thanh toán trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2021,Chuyển tiền trên kênh số,Online Payment,0
+0,LPB-LienvietPost,2021,Thanh toán không tiếp xúc,Online Payment,1
+0,LPB-LienvietPost,2021,Thanh toán điện tử,Online Payment,1
+0,LPB-LienvietPost,2021,Thanh toán ECOM,Online Payment,0
+0,LPB-LienvietPost,2021,Giao dịch công nghệ số,Online Payment,0
+0,LPB-LienvietPost,2021,Giao dịch trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2021,Dịch vụ trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2021,Online Payment,Online Payment,0
+0,LPB-LienvietPost,2021,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,LPB-LienvietPost,2021,Mobile Payment,Mobile Payment,0
+0,LPB-LienvietPost,2021,SMS,Mobile Payment,0
+0,LPB-LienvietPost,2021,QR Code,QR code payment,0
+0,LPB-LienvietPost,2021,mã QR,QR code payment,0
+0,LPB-LienvietPost,2021,VietQR,QR code payment,0
+0,LPB-LienvietPost,2021,Không dùng tiền mặt,Digital wallet,1
+0,LPB-LienvietPost,2021,Ví điện tử,Digital wallet,1
+0,LPB-LienvietPost,2021,Tài khoản trực tuyến,Digital wallet,0
+0,LPB-LienvietPost,2021,Digital wallet,Digital wallet,0
+0,LPB-LienvietPost,2021,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,LPB-LienvietPost,2021,vay mua nhà trực tuyến,Online loan,0
+0,LPB-LienvietPost,2021,Online loan,Online loan,0
+0,LPB-LienvietPost,2021,Ngoại hối online,Online finance,0
+0,LPB-LienvietPost,2021,Online finance,Online finance,0
+0,LPB-LienvietPost,2021,smart contract,Lending platform,0
+0,LPB-LienvietPost,2021,Hợp đồng thông minh,Lending platform,0
+0,LPB-LienvietPost,2021,e-form,Lending platform,0
+0,LPB-LienvietPost,2021,Lending platform,Lending platform,0
+0,LPB-LienvietPost,2021,Inclusive credit,Inclusive credit,0
+0,LPB-LienvietPost,2021,Customer portrait,Customer portrait,0
+0,LPB-LienvietPost,2021,Mô hình hành vi,Customer portrait,0
+0,LPB-LienvietPost,2021,mô hình VaR,Predictive model,0
+0,LPB-LienvietPost,2021,Mô hình đo lường rủi ro,Predictive model,0
+0,LPB-LienvietPost,2021,Mô hình cảnh báo nợ,Predictive model,0
+0,LPB-LienvietPost,2021,Predictive model,Predictive model,0
+0,LPB-LienvietPost,2021,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,LPB-LienvietPost,2021,Credit evaluation,Credit evaluation,0
+0,LPB-LienvietPost,2021,Anti-fraud,Anti-fraud,0
+0,LPB-LienvietPost,2021,chống gian lận,Anti-fraud,0
+0,LPB-LienvietPost,2021,Ngân hàng trực tuyến,Online banking,0
+0,LPB-LienvietPost,2021,Online banking,Online banking,0
+0,LPB-LienvietPost,2021,ngân hàng di động,Mobile banking,0
+0,LPB-LienvietPost,2021,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,LPB-LienvietPost,2021,SHB Mobile,Mobile banking,0
+0,LPB-LienvietPost,2021,Mobile banking,Mobile banking,0
+0,LPB-LienvietPost,2021,E-Mobile,Mobile banking,0
+0,LPB-LienvietPost,2021,One Time Password,Mobile banking,0
+0,LPB-LienvietPost,2021,OTP,Mobile banking,0
+0,LPB-LienvietPost,2021,Ebanking,Internet banking,0
+0,LPB-LienvietPost,2021,Internet banking,Internet banking,1
+0,LPB-LienvietPost,2021,SHB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2021,ứng dụng di động,Bank app,0
+0,LPB-LienvietPost,2021,ứng dụng ngân hàng số,Bank app,4
+0,LPB-LienvietPost,2021,ứng dụng trên điện thoại,Bank app,0
+0,LPB-LienvietPost,2021,ACB ONE,Bank app,0
+0,LPB-LienvietPost,2021,VPBank NEO,Bank app,0
+0,LPB-LienvietPost,2021,MyVIB,Bank app,0
+0,LPB-LienvietPost,2021,HDBank,Bank app,0
+0,LPB-LienvietPost,2021,BIDV Smart Banking,Bank app,0
+0,LPB-LienvietPost,2021,MB Bank,Bank app,0
+0,LPB-LienvietPost,2021,Vietinbank iPay,Bank app,0
+0,LPB-LienvietPost,2021,TPBank Mobile,Bank app,0
+0,LPB-LienvietPost,2021,Agribank E-Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2021,MSB mBank,Bank app,0
+0,LPB-LienvietPost,2021,Eximbank EDigi,Bank app,0
+0,LPB-LienvietPost,2021,Sacombank Pay,Bank app,0
+0,LPB-LienvietPost,2021,SCB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2021,BAOVIET Smart,Bank app,0
+0,LPB-LienvietPost,2021,BAC A BANK Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2021,NCB iziMobile,Bank app,0
+0,LPB-LienvietPost,2021,Liên Việt 24h,Bank app,0
+0,LPB-LienvietPost,2022,Nền tảng công nghệ,Nền tảng,1
+0,LPB-LienvietPost,2022,Nền tảng số,Nền tảng,3
+0,LPB-LienvietPost,2022,Hạ tầng công nghệ,Nền tảng,1
+0,LPB-LienvietPost,2022,Công nghệ thông tin,Công nghệ,11
+0,LPB-LienvietPost,2022,CNTT,Công nghệ,19
+0,LPB-LienvietPost,2022,Kỹ thuật công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2022,Công nghệ ngân hàng,Công nghệ,0
+0,LPB-LienvietPost,2022,Công nghệ 4.0,Công nghệ,2
+0,LPB-LienvietPost,2022,Công nghệ tài chính,Công nghệ,0
+0,LPB-LienvietPost,2022,Ứng dụng công nghệ,Công nghệ,5
+0,LPB-LienvietPost,2022,Chuyển đổi số,Công nghệ,29
+0,LPB-LienvietPost,2022,phát triển công nghệ,Công nghệ,0
+0,LPB-LienvietPost,2022,Công nghệ Fintech,Công nghệ,0
+0,LPB-LienvietPost,2022,hệ thống công nghệ,Công nghệ,2
+0,LPB-LienvietPost,2022,digital transformation,Công nghệ,0
+0,LPB-LienvietPost,2022,trí tuệ nhân tạo,Artificial intelligence,1
+0,LPB-LienvietPost,2022,trợ lý ảo,Artificial intelligence,0
+0,LPB-LienvietPost,2022,Artificial intelligence,Artificial intelligence,0
+0,LPB-LienvietPost,2022,eKYC,Face recognition,2
+0,LPB-LienvietPost,2022,xác thực khuôn mặt,Face recognition,0
+0,LPB-LienvietPost,2022,Face recognition,Face recognition,0
+0,LPB-LienvietPost,2022,nhận diện giọng nói,Voice recognition,0
+0,LPB-LienvietPost,2022,Voice recognition,Voice recognition,0
+0,LPB-LienvietPost,2022,xác thực vân tay,Fingerprint recognition,0
+0,LPB-LienvietPost,2022,Fingerprint recognition,Fingerprint recognition,0
+0,LPB-LienvietPost,2022,công nghệ chuỗi khối,Blockchain,0
+0,LPB-LienvietPost,2022,blockchain,Blockchain,0
+0,LPB-LienvietPost,2022,điện toán đám mây,Cloud computing,0
+0,LPB-LienvietPost,2022,Hệ thống PKI,Cloud computing,0
+0,LPB-LienvietPost,2022,Cloud computing,Cloud computing,0
+0,LPB-LienvietPost,2022,Cloud service,Cloud service,0
+0,LPB-LienvietPost,2022,Salesforce Financial Services Cloud,Cloud service,0
+0,LPB-LienvietPost,2022,dịch vụ đám mây,Cloud service,0
+0,LPB-LienvietPost,2022,đám mây,Cloud service,0
+0,LPB-LienvietPost,2022,Cloud platform,Cloud platform,0
+0,LPB-LienvietPost,2022,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,LPB-LienvietPost,2022,Adobe Experience Cloud,Cloud platform,0
+0,LPB-LienvietPost,2022,Dữ liệu (Data),Big Data,0
+0,LPB-LienvietPost,2022,Dữ liệu lớn,Big Data,0
+0,LPB-LienvietPost,2022,Big Data,Big Data,0
+0,LPB-LienvietPost,2022,Khoa học dữ liệu,Data mining,0
+0,LPB-LienvietPost,2022,Máy học,Data mining,0
+0,LPB-LienvietPost,2022,Data mining,Data mining,0
+0,LPB-LienvietPost,2022,Mô hình dữ liệu,Data visualization,0
+0,LPB-LienvietPost,2022,Dữ liệu và phân tích,Data visualization,0
+0,LPB-LienvietPost,2022,phân tích dữ liệu,Data visualization,1
+0,LPB-LienvietPost,2022,Data visualization,Data visualization,0
+0,LPB-LienvietPost,2022,Thanh toán trực tuyến,Online Payment,1
+0,LPB-LienvietPost,2022,Chuyển tiền trên kênh số,Online Payment,0
+0,LPB-LienvietPost,2022,Thanh toán không tiếp xúc,Online Payment,2
+0,LPB-LienvietPost,2022,Thanh toán điện tử,Online Payment,0
+0,LPB-LienvietPost,2022,Thanh toán ECOM,Online Payment,0
+0,LPB-LienvietPost,2022,Giao dịch công nghệ số,Online Payment,0
+0,LPB-LienvietPost,2022,Giao dịch trực tuyến,Online Payment,2
+0,LPB-LienvietPost,2022,Dịch vụ trực tuyến,Online Payment,0
+0,LPB-LienvietPost,2022,Online Payment,Online Payment,0
+0,LPB-LienvietPost,2022,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,LPB-LienvietPost,2022,Mobile Payment,Mobile Payment,1
+0,LPB-LienvietPost,2022,SMS,Mobile Payment,1
+0,LPB-LienvietPost,2022,QR Code,QR code payment,1
+0,LPB-LienvietPost,2022,mã QR,QR code payment,1
+0,LPB-LienvietPost,2022,VietQR,QR code payment,0
+0,LPB-LienvietPost,2022,Không dùng tiền mặt,Digital wallet,6
+0,LPB-LienvietPost,2022,Ví điện tử,Digital wallet,0
+0,LPB-LienvietPost,2022,Tài khoản trực tuyến,Digital wallet,1
+0,LPB-LienvietPost,2022,Digital wallet,Digital wallet,0
+0,LPB-LienvietPost,2022,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,LPB-LienvietPost,2022,vay mua nhà trực tuyến,Online loan,0
+0,LPB-LienvietPost,2022,Online loan,Online loan,0
+0,LPB-LienvietPost,2022,Ngoại hối online,Online finance,0
+0,LPB-LienvietPost,2022,Online finance,Online finance,0
+0,LPB-LienvietPost,2022,smart contract,Lending platform,0
+0,LPB-LienvietPost,2022,Hợp đồng thông minh,Lending platform,0
+0,LPB-LienvietPost,2022,e-form,Lending platform,0
+0,LPB-LienvietPost,2022,Lending platform,Lending platform,0
+0,LPB-LienvietPost,2022,Inclusive credit,Inclusive credit,0
+0,LPB-LienvietPost,2022,Customer portrait,Customer portrait,0
+0,LPB-LienvietPost,2022,Mô hình hành vi,Customer portrait,0
+0,LPB-LienvietPost,2022,mô hình VaR,Predictive model,0
+0,LPB-LienvietPost,2022,Mô hình đo lường rủi ro,Predictive model,0
+0,LPB-LienvietPost,2022,Mô hình cảnh báo nợ,Predictive model,0
+0,LPB-LienvietPost,2022,Predictive model,Predictive model,0
+0,LPB-LienvietPost,2022,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,LPB-LienvietPost,2022,Credit evaluation,Credit evaluation,0
+0,LPB-LienvietPost,2022,Anti-fraud,Anti-fraud,0
+0,LPB-LienvietPost,2022,chống gian lận,Anti-fraud,0
+0,LPB-LienvietPost,2022,Ngân hàng trực tuyến,Online banking,1
+0,LPB-LienvietPost,2022,Online banking,Online banking,0
+0,LPB-LienvietPost,2022,ngân hàng di động,Mobile banking,1
+0,LPB-LienvietPost,2022,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,LPB-LienvietPost,2022,SHB Mobile,Mobile banking,0
+0,LPB-LienvietPost,2022,Mobile banking,Mobile banking,3
+0,LPB-LienvietPost,2022,E-Mobile,Mobile banking,0
+0,LPB-LienvietPost,2022,One Time Password,Mobile banking,0
+0,LPB-LienvietPost,2022,OTP,Mobile banking,2
+0,LPB-LienvietPost,2022,Ebanking,Internet banking,5
+0,LPB-LienvietPost,2022,Internet banking,Internet banking,2
+0,LPB-LienvietPost,2022,SHB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2022,ứng dụng di động,Bank app,1
+0,LPB-LienvietPost,2022,ứng dụng ngân hàng số,Bank app,0
+0,LPB-LienvietPost,2022,ứng dụng trên điện thoại,Bank app,0
+0,LPB-LienvietPost,2022,ACB ONE,Bank app,0
+0,LPB-LienvietPost,2022,VPBank NEO,Bank app,0
+0,LPB-LienvietPost,2022,MyVIB,Bank app,0
+0,LPB-LienvietPost,2022,HDBank,Bank app,0
+0,LPB-LienvietPost,2022,BIDV Smart Banking,Bank app,0
+0,LPB-LienvietPost,2022,MB Bank,Bank app,0
+0,LPB-LienvietPost,2022,Vietinbank iPay,Bank app,0
+0,LPB-LienvietPost,2022,TPBank Mobile,Bank app,0
+0,LPB-LienvietPost,2022,Agribank E-Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2022,MSB mBank,Bank app,0
+0,LPB-LienvietPost,2022,Eximbank EDigi,Bank app,0
+0,LPB-LienvietPost,2022,Sacombank Pay,Bank app,0
+0,LPB-LienvietPost,2022,SCB Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2022,BAOVIET Smart,Bank app,0
+0,LPB-LienvietPost,2022,BAC A BANK Mobile Banking,Bank app,0
+0,LPB-LienvietPost,2022,NCB iziMobile,Bank app,0
+0,LPB-LienvietPost,2022,Liên Việt 24h,Bank app,0

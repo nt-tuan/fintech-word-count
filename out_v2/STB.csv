@@ -1,0 +1,119 @@
+,bank,year,keyword,segment,count
+0,STB,2013,Nền tảng công nghệ,Nền tảng,0
+0,STB,2013,Nền tảng số,Nền tảng,0
+0,STB,2013,Hạ tầng công nghệ,Nền tảng,0
+0,STB,2013,Công nghệ thông tin,Công nghệ,0
+0,STB,2013,CNTT,Công nghệ,3
+0,STB,2013,Kỹ thuật công nghệ,Công nghệ,0
+0,STB,2013,Công nghệ ngân hàng,Công nghệ,0
+0,STB,2013,Công nghệ 4.0,Công nghệ,0
+0,STB,2013,Công nghệ tài chính,Công nghệ,0
+0,STB,2013,Ứng dụng công nghệ,Công nghệ,0
+0,STB,2013,Chuyển đổi số,Công nghệ,0
+0,STB,2013,phát triển công nghệ,Công nghệ,0
+0,STB,2013,Công nghệ Fintech,Công nghệ,0
+0,STB,2013,hệ thống công nghệ,Công nghệ,0
+0,STB,2013,digital transformation,Công nghệ,0
+0,STB,2013,trí tuệ nhân tạo,Artificial intelligence,0
+0,STB,2013,trợ lý ảo,Artificial intelligence,0
+0,STB,2013,Artificial intelligence,Artificial intelligence,0
+0,STB,2013,eKYC,Face recognition,0
+0,STB,2013,xác thực khuôn mặt,Face recognition,0
+0,STB,2013,Face recognition,Face recognition,0
+0,STB,2013,nhận diện giọng nói,Voice recognition,0
+0,STB,2013,Voice recognition,Voice recognition,0
+0,STB,2013,xác thực vân tay,Fingerprint recognition,0
+0,STB,2013,Fingerprint recognition,Fingerprint recognition,0
+0,STB,2013,công nghệ chuỗi khối,Blockchain,0
+0,STB,2013,blockchain,Blockchain,0
+0,STB,2013,điện toán đám mây,Cloud computing,0
+0,STB,2013,Hệ thống PKI,Cloud computing,0
+0,STB,2013,Cloud computing,Cloud computing,0
+0,STB,2013,Cloud service,Cloud service,0
+0,STB,2013,Salesforce Financial Services Cloud,Cloud service,0
+0,STB,2013,dịch vụ đám mây,Cloud service,0
+0,STB,2013,đám mây,Cloud service,0
+0,STB,2013,Cloud platform,Cloud platform,0
+0,STB,2013,nền tảng trải nghiệm đám mây,Cloud platform,0
+0,STB,2013,Adobe Experience Cloud,Cloud platform,0
+0,STB,2013,Dữ liệu (Data),Big Data,0
+0,STB,2013,Dữ liệu lớn,Big Data,0
+0,STB,2013,Big Data,Big Data,0
+0,STB,2013,Khoa học dữ liệu,Data mining,0
+0,STB,2013,Máy học,Data mining,0
+0,STB,2013,Data mining,Data mining,0
+0,STB,2013,Mô hình dữ liệu,Data visualization,0
+0,STB,2013,Dữ liệu và phân tích,Data visualization,0
+0,STB,2013,phân tích dữ liệu,Data visualization,0
+0,STB,2013,Data visualization,Data visualization,0
+0,STB,2013,Thanh toán trực tuyến,Online Payment,0
+0,STB,2013,Chuyển tiền trên kênh số,Online Payment,0
+0,STB,2013,Thanh toán không tiếp xúc,Online Payment,0
+0,STB,2013,Thanh toán điện tử,Online Payment,0
+0,STB,2013,Thanh toán ECOM,Online Payment,0
+0,STB,2013,Giao dịch công nghệ số,Online Payment,0
+0,STB,2013,Giao dịch trực tuyến,Online Payment,0
+0,STB,2013,Dịch vụ trực tuyến,Online Payment,0
+0,STB,2013,Online Payment,Online Payment,0
+0,STB,2013,Chuyển tiền qua số điện thoại,Mobile Payment,0
+0,STB,2013,Mobile Payment,Mobile Payment,0
+0,STB,2013,SMS,Mobile Payment,8
+0,STB,2013,QR Code,QR code payment,0
+0,STB,2013,mã QR,QR code payment,0
+0,STB,2013,VietQR,QR code payment,0
+0,STB,2013,Không dùng tiền mặt,Digital wallet,0
+0,STB,2013,Ví điện tử,Digital wallet,0
+0,STB,2013,Tài khoản trực tuyến,Digital wallet,0
+0,STB,2013,Digital wallet,Digital wallet,0
+0,STB,2013,Tiền gửi có kỳ hạn trực tuyến,Online loan,0
+0,STB,2013,vay mua nhà trực tuyến,Online loan,0
+0,STB,2013,Online loan,Online loan,0
+0,STB,2013,Ngoại hối online,Online finance,0
+0,STB,2013,Online finance,Online finance,0
+0,STB,2013,smart contract,Lending platform,0
+0,STB,2013,Hợp đồng thông minh,Lending platform,0
+0,STB,2013,e-form,Lending platform,0
+0,STB,2013,Lending platform,Lending platform,0
+0,STB,2013,Inclusive credit,Inclusive credit,0
+0,STB,2013,Customer portrait,Customer portrait,0
+0,STB,2013,Mô hình hành vi,Customer portrait,0
+0,STB,2013,mô hình VaR,Predictive model,0
+0,STB,2013,Mô hình đo lường rủi ro,Predictive model,0
+0,STB,2013,Mô hình cảnh báo nợ,Predictive model,0
+0,STB,2013,Predictive model,Predictive model,0
+0,STB,2013,Mô hình xếp hạng tín dụng,Credit evaluation,0
+0,STB,2013,Credit evaluation,Credit evaluation,0
+0,STB,2013,Anti-fraud,Anti-fraud,0
+0,STB,2013,chống gian lận,Anti-fraud,0
+0,STB,2013,Ngân hàng trực tuyến,Online banking,0
+0,STB,2013,Online banking,Online banking,0
+0,STB,2013,ngân hàng di động,Mobile banking,0
+0,STB,2013,Ngân hàng trên điện thoại di động,Mobile banking,0
+0,STB,2013,SHB Mobile,Mobile banking,0
+0,STB,2013,Mobile banking,Mobile banking,1
+0,STB,2013,E-Mobile,Mobile banking,0
+0,STB,2013,One Time Password,Mobile banking,0
+0,STB,2013,OTP,Mobile banking,1
+0,STB,2013,Ebanking,Internet banking,0
+0,STB,2013,Internet banking,Internet banking,7
+0,STB,2013,SHB Mobile Banking,Bank app,0
+0,STB,2013,ứng dụng di động,Bank app,0
+0,STB,2013,ứng dụng ngân hàng số,Bank app,0
+0,STB,2013,ứng dụng trên điện thoại,Bank app,0
+0,STB,2013,ACB ONE,Bank app,0
+0,STB,2013,VPBank NEO,Bank app,0
+0,STB,2013,MyVIB,Bank app,0
+0,STB,2013,HDBank,Bank app,0
+0,STB,2013,BIDV Smart Banking,Bank app,0
+0,STB,2013,MB Bank,Bank app,0
+0,STB,2013,Vietinbank iPay,Bank app,0
+0,STB,2013,TPBank Mobile,Bank app,0
+0,STB,2013,Agribank E-Mobile Banking,Bank app,0
+0,STB,2013,MSB mBank,Bank app,0
+0,STB,2013,Eximbank EDigi,Bank app,0
+0,STB,2013,Sacombank Pay,Bank app,0
+0,STB,2013,SCB Mobile Banking,Bank app,0
+0,STB,2013,BAOVIET Smart,Bank app,0
+0,STB,2013,BAC A BANK Mobile Banking,Bank app,0
+0,STB,2013,NCB iziMobile,Bank app,0
+0,STB,2013,Liên Việt 24h,Bank app,0
