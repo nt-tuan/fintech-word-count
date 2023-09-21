@@ -72,8 +72,8 @@ def count_keywords_in_image_pdf(pdf_file, keywords):
         index+=1
         ocr_dict = pytesseract.image_to_data(image, lang='vie', output_type=Output.DICT)
         text = " ".join(ocr_dict['text'])
+        total += count_total_words(text)
         for keyword in keywords:
             keyword_count[keyword] += count_words(text, keyword)
-            total += count_total_words(text)
             
     return [keyword_count,total]
