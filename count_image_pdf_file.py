@@ -8,6 +8,8 @@ keywords_to_count = keywordResult['keywords']
 keywordMap = keywordResult['keywordMap']
 
 file_path = sys.argv[1]
+print(file_path)
+
 [count_result, total] = count_keywords_in_image_pdf(file_path, keywords_to_count)
 columns = ['keyword', 'segment', 'count', 'total']
 df = pd.DataFrame(columns=columns)
